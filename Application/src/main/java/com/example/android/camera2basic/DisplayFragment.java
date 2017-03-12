@@ -38,6 +38,15 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.vision.text.Text;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import com.facebook.AccessToken;
+import com.facebook.GraphRequest;
+import com.facebook.GraphResponse;
+import com.facebook.HttpMethod;
+import com.squareup.picasso.Picasso;
+
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashMap;
@@ -58,9 +67,14 @@ public class DisplayFragment extends Fragment {
     String eventId;
     String location;
     String fullTime;
-    String hostName2;
+    String hostId;
     String hostAbout;
     String eventHostName;
+    String relevantIds;
+    String lat;
+    String longitude;
+    String[] returnedVals;
+    int i = 0;
     MapView mMapView;
     GoogleMap googleMap;
     CollapsingToolbarLayout collapsingToolbar;
@@ -91,32 +105,39 @@ public class DisplayFragment extends Fragment {
         monthTime = getArguments().getString("monthTime");
         dayTime = getArguments().getString("dayTime");
         name = getArguments().getString("name");
+        lat = "43.469463" ;
+        longitude = "-80.543800";
         eventHostName = getArguments().getString("eventHostName");
         description = getArguments().getString("description");
         eventId = getArguments().getString("eventId");
         location = getArguments().getString("locationName");
         fullTime =getArguments().getString("fullTime");
         hostAbout = getArguments().getString("aboutHost");
-//        mMapView.getMapAsync(new OnMapReadyCallback() {
-//            @Override
-//            public void onMapReady(GoogleMap mMap) {
-//                googleMap = mMap;
-//
-//                // For showing a move to my location button
-//                if (ActivityCompat.checkSelfPermission(getActivity().getApplicationContext(), Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(getActivity().getApplicationContext(), Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-//                    return;
-//                }
-//                googleMap.setMyLocationEnabled(true);
-//
-//                // For dropping a marker at a point on the Map
-//                LatLng locationMapped = nemw LatLng(Double.parseDouble(lat), Double.parseDouble(longitude));
-//                googleMap.addMarker(new MarkerOptions().position(locationMapped).title(title).snippet("You are "+distance+" meters away from here"));
-//
-//                // For zooming automatically to the location of the marker
-//                CameraPosition cameraPosition = new CameraPosition.Builder().target(locationMapped).zoom(15).build();
-//                googleMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
-//            }
-//        });
+        relevantIds = getArguments().getString("coverIds");
+        hostId = getArguments().getString("eventHostId");
+        returnedVals = getArguments().getString("coverIds").split("\\s+");
+        Log.d("thisidddd",relevantIds);
+        Log.d("thisidddd",returnedVals[0].toString());
+        mMapView.getMapAsync(new OnMapReadyCallback() {
+            @Override
+            public void onMapReady(GoogleMap mMap) {
+                googleMap = mMap;
+
+                // For showing a move to my location button
+                if (ActivityCompat.checkSelfPermission(getActivity().getApplicationContext(), Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(getActivity().getApplicationContext(), Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+                    return;
+                }
+                googleMap.setMyLocationEnabled(true);
+
+                // For dropping a marker at a point on the Map
+                LatLng locationMapped = new LatLng(Double.parseDouble(lat), Double.parseDouble(longitude));
+                googleMap.addMarker(new MarkerOptions().position(locationMapped).title("Science").snippet("You are 20 meters away from here"));
+
+                // For zooming automatically to the location of the marker
+                CameraPosition cameraPosition = new CameraPosition.Builder().target(locationMapped).zoom(15).build();
+                googleMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
+            }
+        });
 
 
         return rootView;
@@ -149,11 +170,50 @@ public class DisplayFragment extends Fragment {
         hostView.setText(eventHostName);
         TextView hostAboutView = (TextView) view.findViewById(R.id.pageInfo);
         hostAboutView.setText(hostAbout);
+        final ImageView[] relevant = new ImageView[3];
+        relevant[0] = (ImageView) view.findViewById(R.id.relevant1);
+        relevant[1] = (ImageView) view.findViewById(R.id.relevant2);
+        relevant[2] = (ImageView) view.findViewById(R.id.relevant3);
+        if (returnedVals[0].length()>0) {
+            Log.d("dad",returnedVals[0]);
+            Glide.with(this).load(returnedVals[0]).fitCenter().into(relevant[0]);
+        }
+        if (returnedVals.length>1) {
+            if (returnedVals[1].length() > 0) {
+                Glide.with(this).load(returnedVals[1]).fitCenter().into(relevant[1]);
+            }
+        }
+        if (returnedVals.length>2) {
+            if (returnedVals[2].length() > 0) {
+                Glide.with(this).load(returnedVals[2]).fitCenter().into(relevant[2]);
+            }
+        }
+
+        View fbInfo = view.findViewById(R.id.fbEventInfo);
+        fbInfo.setOnClickListener(new View.OnClickListener() {
+                                      public void onClick(View v) {
+                                          final Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("fb://event/"+eventId));
+                                          startActivity(intent);
+                                      }
+                                  }
+        );
+        View fbPage = view.findViewById(R.id.fbPageInfo);
+        fbPage.setOnClickListener(new View.OnClickListener() {
+                                      public void onClick(View v) {
+                                          final Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("fb://page/"+hostId));
+                                          startActivity(intent);
+                                      }
+                                  }
+        );
+
 
 //        descriptionView.setText("test text mang");
         ImageView backdropImg = (ImageView) view.findViewById(R.id.backdrop);
         Log.d("path",pathUrl);
         Glide.with(this).load(pathUrl).fitCenter().into(backdropImg);
+
 //        view.findViewById(R.id.appbarbutton).setOnClickListener(this);
     }
+
+
 }

@@ -313,7 +313,6 @@ public class CameraActivity extends Activity implements
                         } catch (JSONException e) {
                             e.printStackTrace();
                         }
-                        Log.d("total values",stringValues.toString());
                         runGetRelevantInfo();
                     }
                 }
@@ -342,9 +341,10 @@ public class CameraActivity extends Activity implements
                                         JSONObject eventInfo =((JSONObject) returnObjVal.getJSONObject("events").getJSONArray("data").get(i));
                                         if (eventInfo.has("id")) {
                                             listIds = listIds + "," + eventInfo.getString("id");
+                                            runGetPhotos(eventInfo.getString("id"));
                                         }
                                     }
-                                    stringValues.put("relevantEvents",listIds);
+                                    stringValues.put("relevantEvents",listIds.substring(1));
                                 }
                                 if (returnObjVal.has("about")) {
                                     stringValues.put("aboutHost",returnObjVal.getString("about"));
@@ -352,11 +352,45 @@ public class CameraActivity extends Activity implements
                             } catch (JSONException e) {
                                 e.printStackTrace();
                             }
-                            switchToDisplay();
+                            Log.d("total values",stringValues.toString());
                         }
                     }
             ).executeAsync();
         }
+    }
+
+    private void runGetPhotos(String id) {
+        new GraphRequest(
+                AccessToken.getCurrentAccessToken(),
+                "/"+id+"?fields=cover",
+                null,
+                HttpMethod.GET,
+                new GraphRequest.Callback() {
+                    public void onCompleted(GraphResponse response) {
+                        String listIds = "";
+                        JSONObject returnObjVal = response.getJSONObject();
+                        try {
+                            Log.d("fdjwsak",returnObjVal.toString());
+                            if (returnObjVal.has("cover")) {
+                                Log.d("fdjwsak","incover");
+                                if (returnObjVal.getJSONObject("cover").has("source")) {
+                                    listIds = returnObjVal.getJSONObject("cover").getString("source");
+                                    Log.d("fdjwsak",listIds);
+                                    if (stringValues.containsKey("coverIds")) {
+                                        stringValues.put("coverIds",stringValues.get("coverIds")+" "+listIds);
+                                    } else {
+                                        stringValues.put("coverIds",listIds);
+                                    }
+                                }
+                            }
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+
+                        switchToDisplay();
+                    }
+                }
+        ).executeAsync();
     }
 
     private void switchToDisplay() {
@@ -371,6 +405,12 @@ public class CameraActivity extends Activity implements
             i.putExtra("locationName",stringValues.get("locationName"));
         } else {
             i.putExtra("locationName","N/A");
+        }
+        if (stringValues.containsKey("coverIds")) {
+            Log.d("hereids",stringValues.get("coverIds"));
+            i.putExtra("coverIds",stringValues.get("coverIds"));
+        } else {
+            i.putExtra("coverIds","N/A");
         }
         if (stringValues.containsKey("latitude")) {
             i.putExtra("latitude",stringValues.get("latitude"));

@@ -2,22 +2,310 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\4cac84bc981dea0c26b02d3f9a5ecd3a9985802c\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="25d2d18086a4d3563126d03117685ed7ac559430">
-        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435\classes.dex" />
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5a7af8bf568439d8b831bd43896af491532cde05.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\7c9e10226aa4dd929d40078a0871777996bf2af2\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\classes.dex" />
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_e5591da6e04cc9b174a7b4a14f554e3e8ca34d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\5d4a3a03b6d4324c518b0d062ccfa3f56866db67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_d0d5124e7e3006989510d1910c00720aadc8807b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\aa03dc97024d7831d4e9ddd0408985761dedc8e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_6881ef5274cad963ee13bb4821876b84f25a8281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\b551e3f95519948a83889ddb683670a48240c4fb\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_907ef150ff656b8a992d4927362948f230f9cf5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\f1f69f9ba287cb4383385475c018180652a17ee3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_29cbec50d6c48c38288c5779a2a401699d2715c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\picasso-2.5.2_65031fd174a1592670e39bd5a78d1a800fdf57a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\555a572bee14368512bbe93f07dd23cd31151236\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_2fca7b83f128310ebff9d9749e71c0662c978684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\5bcf7baef6453b527ae076b1ded79cab38b0c09f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_5694aa109d1a1be88c0febdb0cb706f9bfbcbd3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\5d4a3a03b6d4324c518b0d062ccfa3f56866db67\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7b82e7e79a3fc86034c3fad335688b36cc1c574d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\commons-io-2.0.1_cc96426b1271d426904d67f384ddc53879bbf7d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\aa03dc97024d7831d4e9ddd0408985761dedc8e0\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_80b07f71fa51e992a4fe26a4b2ad489034cbddde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\4a233d2e993b7fb82bb4a1fe2f6d9b4b7d70f6fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_e491202cd64ec7d0d2b407881ceec9a6464f130f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\b551e3f95519948a83889ddb683670a48240c4fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_87bf4b94f5c0c92581628e04db79331f10a7d81c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\glide-3.7.0_ff85cc43906bb95038e82f9fe3cc61d7f3b53ba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\e3a6c6783c2aa781ef2e4a29437a88bc54cee5f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_47bde06af602035cba7d10d1f33a820b4ed3e880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\58e61b20913b44c9d6c2fea4e4c0048b114960a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_4ffef6b67be8693857c7a0d9a578b8c40fc57cba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\4cac84bc981dea0c26b02d3f9a5ecd3a9985802c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_c0d5bd881f0bd6ef2e0e84086108adb542ab2230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\eaf63d569f119fb2528f8e92599b9a03903c6a3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_502d7a48f6f7e1556dd1f6de6ff3e4a03588cfe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\6c0b1e6f2e427075407c6471037782e370cd864c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_574473a5f09075116fa9d2419a83d82be4860e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\e266c3b0849e3f5208a17be6da0bd5e54131101b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_8251a79a87b3a3a9a5713f05d08688701bb920ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_909a375fc8a7ad7303b559aba03775821c14613e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\fde72a42e3bfcb5f539f8355476e0da5728dfb3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_e07ff1f00d55e382ff8cc7eef460c3b11fc11b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\c8216324afcd9f964e57d8a205260bbef01b93de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_a790604815fecc418fe3f49bc8bd62c4ee5a6b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\4aacf6733115e9da0b0f00e6f2fbef006cd4f068\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_af48c47f82fd2a672ab8b2c57bd193a12d3c604d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\98fd479b406a2d4b20070eb914e91da792368c75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_4c93eaa4b5ec11bcd947eeeaca884088faa2e262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\294865d46bdd9bcd683669927ef01e1f2e8c1878\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_0de5e0355fb0193070e1fd2d2dd5605be93d3e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\a0f648c3f0bfce2640e72ca03d4fe022c0b45bc6\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6b9c4a0c10b6ac5ed28f0917421ba19080cce980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\294865d46bdd9bcd683669927ef01e1f2e8c1878\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d052fbb901d9dd84be76773b78bd44357b562648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_5e5dd06a29abcd2cec361d3b2f9d97b7419c7ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\94a92b3fb317a65c92dc2cfb0ac31b85e5554a2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_2de328551fb224bf210bd08d1b6e287a7cc17106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\a0f648c3f0bfce2640e72ca03d4fe022c0b45bc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_c8c8c83bffb0dd7ed4fecc6711f24bf7716a2615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_2b6dd694ab673c6a880f707d8a40e3045c162dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathan\.android\build-cache\e70347971c78a623176cf44e3d130e204415bfc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Nathan\Documents\GitHub\plg-in\Application\build\intermediates\pre-dexed\debug\classes_fd0caea3819b0d18a31fc7a3f142805658e70567.jar" />
     </item>
 
 </items>

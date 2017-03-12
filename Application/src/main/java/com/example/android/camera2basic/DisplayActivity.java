@@ -10,6 +10,8 @@ import android.util.Log;
 import android.view.MenuItem;
 
 import org.apache.commons.io.FileUtils;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -52,6 +54,11 @@ public class DisplayActivity extends AppCompatActivity {
         monthsCalFull.put("12","December");
 
         String id = getIntent().getExtras().getString("eventId");
+        String lat = getIntent().getExtras().getString("latitude");
+        String longi = getIntent().getExtras().getString("longitude");
+        Log.d("longlat", lat+" "+longi);
+        String hostId = getIntent().getExtras().getString("eventHostId");
+        String coverIds = getIntent().getExtras().getString("coverIds");
         String relevantEvents = getIntent().getExtras().getString("relevantEvents");
         String aboutHost = getIntent().getExtras().getString("aboutHost");
         String eventHostName = getIntent().getExtras().getString("eventHostName");
@@ -67,8 +74,12 @@ public class DisplayActivity extends AppCompatActivity {
 
         DisplayFragment fragment =  DisplayFragment.newInstance();
         Bundle bundle = new Bundle();
+        bundle.putString("latitude",lat);
+        bundle.putString("longitude",longi);
         bundle.putString("aboutHost",aboutHost);
+        bundle.putString("eventHostId",hostId);
         bundle.putString("fullTime", timeFull);
+        bundle.putString("coverIds",coverIds);
         bundle.putString("description",description);
         bundle.putString("monthTime",monthTime);
         bundle.putString("name",name);
@@ -77,6 +88,7 @@ public class DisplayActivity extends AppCompatActivity {
         bundle.putString("coverPhoto",imageDir);
         bundle.putString("locationName",locationName);
         bundle.putString("eventId",id);
+        bundle.putString("relevantEvents",relevantEvents);
 
 
         fragment.setArguments(bundle);
