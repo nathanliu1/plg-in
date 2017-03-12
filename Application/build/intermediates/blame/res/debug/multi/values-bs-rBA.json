@@ -808,7 +808,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+        "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -819,7 +823,11 @@
                     "endOffset": 169
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -838,7 +846,11 @@
                     "endOffset": 277
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -857,7 +869,11 @@
                     "endOffset": 400
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -876,7 +892,11 @@
                     "endOffset": 509
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -895,7 +915,11 @@
                     "endOffset": 616
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -914,7 +938,11 @@
                     "endOffset": 704
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -933,7 +961,11 @@
                     "endOffset": 805
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -952,7 +984,11 @@
                     "endOffset": 927
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -971,7 +1007,11 @@
                     "endOffset": 1009
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -990,7 +1030,11 @@
                     "endOffset": 1090
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1009,7 +1053,11 @@
                     "endOffset": 1176
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1028,7 +1076,11 @@
                     "endOffset": 1279
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1047,7 +1099,11 @@
                     "endOffset": 1384
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1066,7 +1122,11 @@
                     "endOffset": 1482
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1085,7 +1145,11 @@
                     "endOffset": 1587
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1104,7 +1168,11 @@
                     "endOffset": 1698
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1123,7 +1191,11 @@
                     "endOffset": 1803
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1142,7 +1214,11 @@
                     "endOffset": 1923
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1161,7 +1237,11 @@
                     "endOffset": 2020
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1180,7 +1260,11 @@
                     "endOffset": 2104
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1199,7 +1283,11 @@
                     "endOffset": 2205
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-bs-rBA\\values-bs-rBA.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

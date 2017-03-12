@@ -930,7 +930,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+        "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -941,7 +945,11 @@
                     "endOffset": 119
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -960,7 +968,11 @@
                     "endOffset": 188
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -979,7 +991,11 @@
                     "endOffset": 258
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -998,7 +1014,11 @@
                     "endOffset": 332
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1017,7 +1037,11 @@
                     "endOffset": 408
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1036,7 +1060,11 @@
                     "endOffset": 467
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1055,7 +1083,11 @@
                     "endOffset": 538
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1074,7 +1106,11 @@
                     "endOffset": 606
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1093,7 +1129,11 @@
                     "endOffset": 666
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1112,7 +1152,11 @@
                     "endOffset": 736
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1131,7 +1175,11 @@
                     "endOffset": 807
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1150,7 +1198,11 @@
                     "endOffset": 879
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1169,7 +1221,11 @@
                     "endOffset": 937
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1188,7 +1244,11 @@
                     "endOffset": 995
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1207,7 +1267,11 @@
                     "endOffset": 1101
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1226,7 +1290,11 @@
                     "endOffset": 1165
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1245,7 +1313,11 @@
                     "endOffset": 1233
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1264,7 +1336,11 @@
                     "endOffset": 1288
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1283,7 +1359,11 @@
                     "endOffset": 1347
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1302,7 +1382,11 @@
                     "endOffset": 1411
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1321,7 +1405,11 @@
                     "endOffset": 1479
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1340,7 +1428,11 @@
                     "endOffset": 1542
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1360,7 +1452,11 @@
                     "endOffset": 1724
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1381,7 +1477,11 @@
                     "endOffset": 1969
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

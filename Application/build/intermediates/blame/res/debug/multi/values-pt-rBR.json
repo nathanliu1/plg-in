@@ -727,7 +727,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+        "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -738,7 +742,11 @@
                     "endOffset": 220
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -757,7 +765,11 @@
                     "endOffset": 328
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -776,7 +788,11 @@
                     "endOffset": 451
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -795,7 +811,11 @@
                     "endOffset": 557
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -814,7 +834,11 @@
                     "endOffset": 664
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -833,7 +857,11 @@
                     "endOffset": 753
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -852,7 +880,11 @@
                     "endOffset": 854
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -871,7 +903,11 @@
                     "endOffset": 972
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -890,7 +926,11 @@
                     "endOffset": 1055
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -909,7 +949,11 @@
                     "endOffset": 1135
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -928,7 +972,11 @@
                     "endOffset": 1222
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -947,7 +995,11 @@
                     "endOffset": 1329
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -966,7 +1018,11 @@
                     "endOffset": 1441
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -985,7 +1041,11 @@
                     "endOffset": 1543
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1004,7 +1064,11 @@
                     "endOffset": 1651
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1023,7 +1087,11 @@
                     "endOffset": 1758
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1042,7 +1110,11 @@
                     "endOffset": 1868
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1061,7 +1133,11 @@
                     "endOffset": 1993
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1080,7 +1156,11 @@
                     "endOffset": 2093
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1099,7 +1179,11 @@
                     "endOffset": 2200
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1118,7 +1202,11 @@
                     "endOffset": 2380
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -1137,7 +1225,11 @@
                     "endOffset": 2509
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -1156,7 +1248,11 @@
                     "endOffset": 2619
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -1175,7 +1271,11 @@
                     "endOffset": 2845
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -1194,7 +1294,11 @@
                     "endOffset": 2977
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -1213,7 +1317,11 @@
                     "endOffset": 3111
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -1232,7 +1340,11 @@
                     "endOffset": 3315
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\729496725cde8d56900348068bb624abd8da3b41\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\729496725cde8d56900348068bb624abd8da3b41\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1251,7 +1363,11 @@
                     "endOffset": 3544
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -1270,7 +1386,11 @@
                     "endOffset": 3654
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -1289,7 +1409,11 @@
                     "endOffset": 3849
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -1308,7 +1432,11 @@
                     "endOffset": 3981
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -1327,7 +1455,11 @@
                     "endOffset": 4197
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -1346,7 +1478,11 @@
                     "endOffset": 4384
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -1365,7 +1501,11 @@
                     "endOffset": 4483
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -1384,7 +1524,11 @@
                     "endOffset": 4579
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -1403,7 +1547,11 @@
                     "endOffset": 4692
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-pt-rBR\\values.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -1422,7 +1570,11 @@
                     "endOffset": 4777
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1441,7 +1593,11 @@
                     "endOffset": 4878
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+=======
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

@@ -3610,24 +3610,41 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+=======
+        "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
+<<<<<<< HEAD
                     "endColumn": 90,
                     "endOffset": 141
                 },
                 "from": {
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-v21\\values-v21.xml",
+=======
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
+<<<<<<< HEAD
                         "endColumn": 90,
                         "endOffset": 141
+=======
+                        "endColumn": 103,
+                        "endOffset": 154
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3635,6 +3652,7 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 146,
                     "endColumn": 102,
                     "endOffset": 244
@@ -3647,6 +3665,20 @@
                         "startOffset": 146,
                         "endColumn": 102,
                         "endOffset": 244
+=======
+                    "startOffset": 159,
+                    "endColumn": 63,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 63,
+                        "endOffset": 218
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3654,6 +3686,7 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 249,
                     "endColumn": 102,
                     "endOffset": 347
@@ -3666,6 +3699,20 @@
                         "startOffset": 249,
                         "endColumn": 102,
                         "endOffset": 347
+=======
+                    "startOffset": 223,
+                    "endColumn": 66,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 66,
+                        "endOffset": 285
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3673,6 +3720,7 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 352,
                     "endColumn": 104,
                     "endOffset": 452
@@ -3685,6 +3733,20 @@
                         "startOffset": 352,
                         "endColumn": 104,
                         "endOffset": 452
+=======
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3692,6 +3754,7 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 457,
                     "endColumn": 106,
                     "endOffset": 559
@@ -3704,6 +3767,20 @@
                         "startOffset": 457,
                         "endColumn": 106,
                         "endOffset": 559
+=======
+                    "startOffset": 354,
+                    "endColumn": 90,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 90,
+                        "endOffset": 440
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3711,6 +3788,7 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 564,
                     "endColumn": 108,
                     "endOffset": 668
@@ -3723,6 +3801,20 @@
                         "startOffset": 564,
                         "endColumn": 108,
                         "endOffset": 668
+=======
+                    "startOffset": 445,
+                    "endColumn": 102,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 102,
+                        "endOffset": 543
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3730,6 +3822,7 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 673,
                     "endColumn": 108,
                     "endOffset": 777
@@ -3742,6 +3835,20 @@
                         "startOffset": 673,
                         "endColumn": 108,
                         "endOffset": 777
+=======
+                    "startOffset": 548,
+                    "endColumn": 102,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 102,
+                        "endOffset": 646
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3749,6 +3856,7 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 782,
                     "endColumn": 108,
                     "endOffset": 886
@@ -3761,6 +3869,20 @@
                         "startOffset": 782,
                         "endColumn": 108,
                         "endOffset": 886
+=======
+                    "startOffset": 651,
+                    "endColumn": 104,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 104,
+                        "endOffset": 751
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3768,6 +3890,7 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 891,
                     "endColumn": 108,
                     "endOffset": 995
@@ -3780,6 +3903,20 @@
                         "startOffset": 891,
                         "endColumn": 108,
                         "endOffset": 995
+=======
+                    "startOffset": 756,
+                    "endColumn": 106,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 106,
+                        "endOffset": 858
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3787,6 +3924,7 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1000,
                     "endColumn": 108,
                     "endOffset": 1104
@@ -3799,6 +3937,20 @@
                         "startOffset": 1000,
                         "endColumn": 108,
                         "endOffset": 1104
+=======
+                    "startOffset": 863,
+                    "endColumn": 108,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 108,
+                        "endOffset": 967
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3806,6 +3958,7 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1109,
                     "endColumn": 106,
                     "endOffset": 1211
@@ -3818,6 +3971,20 @@
                         "startOffset": 1109,
                         "endColumn": 106,
                         "endOffset": 1211
+=======
+                    "startOffset": 972,
+                    "endColumn": 108,
+                    "endOffset": 1076
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 108,
+                        "endOffset": 1076
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3825,6 +3992,7 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1216,
                     "endColumn": 102,
                     "endOffset": 1314
@@ -3837,6 +4005,20 @@
                         "startOffset": 1216,
                         "endColumn": 102,
                         "endOffset": 1314
+=======
+                    "startOffset": 1081,
+                    "endColumn": 108,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 108,
+                        "endOffset": 1185
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3844,6 +4026,7 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1319,
                     "endColumn": 118,
                     "endOffset": 1433
@@ -3856,6 +4039,20 @@
                         "startOffset": 1319,
                         "endColumn": 118,
                         "endOffset": 1433
+=======
+                    "startOffset": 1190,
+                    "endColumn": 108,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 108,
+                        "endOffset": 1294
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3863,6 +4060,7 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1438,
                     "endLine": 16,
                     "endColumn": 12,
@@ -3877,6 +4075,39 @@
                         "endLine": 16,
                         "endColumn": 12,
                         "endOffset": 1588
+=======
+                    "startOffset": 1299,
+                    "endColumn": 108,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endColumn": 108,
+                        "endOffset": 1403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endColumn": 106,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1408,
+                        "endColumn": 106,
+                        "endOffset": 1510
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3884,6 +4115,7 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1593,
                     "endLine": 18,
                     "endColumn": 12,
@@ -3898,11 +4130,26 @@
                         "endLine": 18,
                         "endColumn": 12,
                         "endOffset": 1743
+=======
+                    "startOffset": 1515,
+                    "endColumn": 102,
+                    "endOffset": 1613
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endColumn": 102,
+                        "endOffset": 1613
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1748,
@@ -3917,11 +4164,28 @@
                         "startOffset": 1748,
                         "endColumn": 104,
                         "endOffset": 1848
+=======
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1618,
+                    "endColumn": 118,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 118,
+                        "endOffset": 1732
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 20,
                     "startColumn": 4,
                     "startOffset": 1853,
@@ -3936,6 +4200,24 @@
                         "startOffset": 1853,
                         "endColumn": 120,
                         "endOffset": 1969
+=======
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1737,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1737,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1887
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3943,6 +4225,7 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1974,
                     "endColumn": 100,
                     "endOffset": 2070
@@ -3955,11 +4238,28 @@
                         "startOffset": 1974,
                         "endColumn": 100,
                         "endOffset": 2070
+=======
+                    "startOffset": 1892,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 2042
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2042
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 22,
                     "startColumn": 4,
                     "startOffset": 2075,
@@ -3976,6 +4276,22 @@
                         "endLine": 23,
                         "endColumn": 12,
                         "endOffset": 2217
+=======
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2047,
+                    "endColumn": 104,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2047,
+                        "endColumn": 104,
+                        "endOffset": 2147
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -3983,6 +4299,7 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 2222,
                     "endLine": 25,
                     "endColumn": 12,
@@ -3997,11 +4314,26 @@
                         "endLine": 25,
                         "endColumn": 12,
                         "endOffset": 2358
+=======
+                    "startOffset": 2152,
+                    "endColumn": 120,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2152,
+                        "endColumn": 120,
+                        "endOffset": 2268
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 26,
                     "startColumn": 4,
                     "startOffset": 2363,
@@ -4016,11 +4348,28 @@
                         "startOffset": 2363,
                         "endColumn": 102,
                         "endOffset": 2461
+=======
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endColumn": 100,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endColumn": 100,
+                        "endOffset": 2369
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 27,
                     "startColumn": 4,
                     "startOffset": 2466,
@@ -4035,6 +4384,24 @@
                         "startOffset": 2466,
                         "endColumn": 118,
                         "endOffset": 2580
+=======
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 2516
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2374,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 2516
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4042,6 +4409,7 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 2585,
                     "endColumn": 106,
                     "endOffset": 2687
@@ -4054,11 +4422,28 @@
                         "startOffset": 2585,
                         "endColumn": 106,
                         "endOffset": 2687
+=======
+                    "startOffset": 2521,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 2657
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2521,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2657
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 29,
                     "startColumn": 4,
                     "startOffset": 2692,
@@ -4073,11 +4458,28 @@
                         "startOffset": 2692,
                         "endColumn": 102,
                         "endOffset": 2790
+=======
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2662,
+                    "endColumn": 102,
+                    "endOffset": 2760
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2662,
+                        "endColumn": 102,
+                        "endOffset": 2760
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 30,
                     "startColumn": 4,
                     "startOffset": 2795,
@@ -4094,6 +4496,22 @@
                         "endLine": 31,
                         "endColumn": 12,
                         "endOffset": 2945
+=======
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2765,
+                    "endColumn": 118,
+                    "endOffset": 2879
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2765,
+                        "endColumn": 118,
+                        "endOffset": 2879
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4101,6 +4519,7 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 2950,
                     "endLine": 33,
                     "endColumn": 12,
@@ -4115,6 +4534,39 @@
                         "endLine": 33,
                         "endColumn": 12,
                         "endOffset": 3116
+=======
+                    "startOffset": 2884,
+                    "endColumn": 106,
+                    "endOffset": 2986
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2884,
+                        "endColumn": 106,
+                        "endOffset": 2986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2991,
+                    "endColumn": 102,
+                    "endOffset": 3089
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2991,
+                        "endColumn": 102,
+                        "endOffset": 3089
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4122,6 +4574,7 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 3121,
                     "endLine": 35,
                     "endColumn": 12,
@@ -4136,6 +4589,22 @@
                         "endLine": 35,
                         "endColumn": 12,
                         "endOffset": 3265
+=======
+                    "startOffset": 3094,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 3244
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3244
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4143,6 +4612,7 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 3270,
                     "endLine": 37,
                     "endColumn": 12,
@@ -4157,6 +4627,22 @@
                         "endLine": 37,
                         "endColumn": 12,
                         "endOffset": 3430
+=======
+                    "startOffset": 3249,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3415
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3249,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3415
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4164,6 +4650,7 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 3435,
                     "endLine": 39,
                     "endColumn": 12,
@@ -4178,6 +4665,22 @@
                         "endLine": 39,
                         "endColumn": 12,
                         "endOffset": 3587
+=======
+                    "startOffset": 3420,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3564
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3420,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3564
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4185,6 +4688,7 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 3592,
                     "endLine": 41,
                     "endColumn": 12,
@@ -4199,6 +4703,22 @@
                         "endLine": 41,
                         "endColumn": 12,
                         "endOffset": 3738
+=======
+                    "startOffset": 3569,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3729
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3569,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3729
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4206,6 +4726,7 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 3743,
                     "endColumn": 118,
                     "endOffset": 3857
@@ -4218,11 +4739,28 @@
                         "startOffset": 3743,
                         "endColumn": 118,
                         "endOffset": 3857
+=======
+                    "startOffset": 3734,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3886
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3734,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 3886
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 43,
                     "startColumn": 4,
                     "startOffset": 3862,
@@ -4239,11 +4777,30 @@
                         "endLine": 47,
                         "endColumn": 12,
                         "endOffset": 4229
+=======
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3891,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 4037
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3891,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4037
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 48,
                     "startColumn": 4,
                     "startOffset": 4234,
@@ -4260,11 +4817,28 @@
                         "endLine": 49,
                         "endColumn": 12,
                         "endOffset": 4378
+=======
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4042,
+                    "endColumn": 118,
+                    "endOffset": 4156
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4042,
+                        "endColumn": 118,
+                        "endOffset": 4156
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 50,
                     "startColumn": 4,
                     "startOffset": 4383,
@@ -4281,6 +4855,24 @@
                         "endLine": 51,
                         "endColumn": 12,
                         "endOffset": 4527
+=======
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4161,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4528
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4161,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4528
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -4288,6 +4880,7 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 4532,
                     "endColumn": 111,
                     "endOffset": 4639
@@ -4300,11 +4893,68 @@
                         "startOffset": 4532,
                         "endColumn": 111,
                         "endOffset": 4639
+=======
+                    "startOffset": 4533,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4677
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4533,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4677
                     }
                 }
             },
             {
                 "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4682,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4826
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4682,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4831,
+                    "endColumn": 111,
+                    "endOffset": 4938
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4831,
+                        "endColumn": 111,
+                        "endOffset": 4938
+>>>>>>> refs/remotes/origin/master
+                    }
+                }
+            },
+            {
+                "to": {
+<<<<<<< HEAD
                     "startLine": 53,
                     "startColumn": 4,
                     "startOffset": 4644,
@@ -4319,11 +4969,28 @@
                         "startOffset": 4644,
                         "endColumn": 146,
                         "endOffset": 4786
+=======
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4943,
+                    "endColumn": 146,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4943,
+                        "endColumn": 146,
+                        "endOffset": 5085
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 54,
                     "startColumn": 4,
                     "startOffset": 4791,
@@ -4340,11 +5007,30 @@
                         "endLine": 55,
                         "endColumn": 12,
                         "endOffset": 4939
+=======
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 5238
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5090,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 5238
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 56,
                     "startColumn": 4,
                     "startOffset": 4944,
@@ -4361,11 +5047,30 @@
                         "endLine": 57,
                         "endColumn": 12,
                         "endOffset": 5086
+=======
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5243,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5385
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5243,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 5385
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 58,
                     "startColumn": 4,
                     "startOffset": 5091,
@@ -4380,11 +5085,28 @@
                         "startOffset": 5091,
                         "endColumn": 74,
                         "endOffset": 5161
+=======
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5390,
+                    "endColumn": 74,
+                    "endOffset": 5460
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5390,
+                        "endColumn": 74,
+                        "endOffset": 5460
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 59,
                     "startColumn": 4,
                     "startOffset": 5166,
@@ -4399,11 +5121,28 @@
                         "startOffset": 5166,
                         "endColumn": 88,
                         "endOffset": 5250
+=======
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5465,
+                    "endColumn": 88,
+                    "endOffset": 5549
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5465,
+                        "endColumn": 88,
+                        "endOffset": 5549
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 60,
                     "startColumn": 4,
                     "startOffset": 5255,
@@ -4418,11 +5157,28 @@
                         "startOffset": 5255,
                         "endColumn": 86,
                         "endOffset": 5337
+=======
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5554,
+                    "endColumn": 86,
+                    "endOffset": 5636
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5554,
+                        "endColumn": 86,
+                        "endOffset": 5636
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 61,
                     "startColumn": 4,
                     "startOffset": 5342,
@@ -4437,11 +5193,28 @@
                         "startOffset": 5342,
                         "endColumn": 100,
                         "endOffset": 5438
+=======
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5641,
+                    "endColumn": 100,
+                    "endOffset": 5737
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5641,
+                        "endColumn": 100,
+                        "endOffset": 5737
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 62,
                     "startColumn": 4,
                     "startOffset": 5443,
@@ -4456,11 +5229,28 @@
                         "startOffset": 5443,
                         "endColumn": 102,
                         "endOffset": 5541
+=======
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5742,
+                    "endColumn": 102,
+                    "endOffset": 5840
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5742,
+                        "endColumn": 102,
+                        "endOffset": 5840
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 63,
                     "startColumn": 4,
                     "startOffset": 5546,
@@ -4477,11 +5267,30 @@
                         "endLine": 106,
                         "endColumn": 12,
                         "endOffset": 8609
+=======
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5845,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 8908
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5845,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 8908
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 107,
                     "startColumn": 4,
                     "startOffset": 8614,
@@ -4498,11 +5307,30 @@
                         "endLine": 109,
                         "endColumn": 12,
                         "endOffset": 8795
+=======
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8913,
+                    "endLine": 113,
+                    "endColumn": 12,
+                    "endOffset": 9094
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 8913,
+                        "endLine": 113,
+                        "endColumn": 12,
+                        "endOffset": 9094
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 110,
                     "startColumn": 4,
                     "startOffset": 8800,
@@ -4519,11 +5347,30 @@
                         "endLine": 153,
                         "endColumn": 12,
                         "endOffset": 11875
+=======
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9099,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 12174
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 9099,
+                        "endLine": 157,
+                        "endColumn": 12,
+                        "endOffset": 12174
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 154,
                     "startColumn": 4,
                     "startOffset": 11880,
@@ -4540,11 +5387,30 @@
                         "endLine": 156,
                         "endColumn": 12,
                         "endOffset": 12073
+=======
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 12179,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 12372
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 12179,
+                        "endLine": 160,
+                        "endColumn": 12,
+                        "endOffset": 12372
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 157,
                     "startColumn": 4,
                     "startOffset": 12078,
@@ -4561,11 +5427,30 @@
                         "endLine": 159,
                         "endColumn": 12,
                         "endOffset": 12273
+=======
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 12377,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 12572
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 12377,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12572
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 160,
                     "startColumn": 4,
                     "startOffset": 12278,
@@ -4582,11 +5467,30 @@
                         "endLine": 161,
                         "endColumn": 12,
                         "endOffset": 12396
+=======
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 12577,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 12695
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12577,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12695
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 162,
                     "startColumn": 4,
                     "startOffset": 12401,
@@ -4603,11 +5507,30 @@
                         "endLine": 163,
                         "endColumn": 12,
                         "endOffset": 12519
+=======
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12700,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12818
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12700,
+                        "endLine": 167,
+                        "endColumn": 12,
+                        "endOffset": 12818
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 164,
                     "startColumn": 4,
                     "startOffset": 12524,
@@ -4624,11 +5547,30 @@
                         "endLine": 165,
                         "endColumn": 12,
                         "endOffset": 12632
+=======
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12823,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12931
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 12823,
+                        "endLine": 169,
+                        "endColumn": 12,
+                        "endOffset": 12931
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 166,
                     "startColumn": 4,
                     "startOffset": 12637,
@@ -4645,11 +5587,30 @@
                         "endLine": 168,
                         "endColumn": 12,
                         "endOffset": 12815
+=======
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12936,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 13114
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 12936,
+                        "endLine": 172,
+                        "endColumn": 12,
+                        "endOffset": 13114
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 169,
                     "startColumn": 4,
                     "startOffset": 12820,
@@ -4666,11 +5627,30 @@
                         "endLine": 170,
                         "endColumn": 12,
                         "endOffset": 12946
+=======
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 13119,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 13245
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 13119,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 13245
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 171,
                     "startColumn": 4,
                     "startOffset": 12951,
@@ -4687,11 +5667,30 @@
                         "endLine": 173,
                         "endColumn": 12,
                         "endOffset": 13147
+=======
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13250,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 13446
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13250,
+                        "endLine": 177,
+                        "endColumn": 12,
+                        "endOffset": 13446
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 174,
                     "startColumn": 4,
                     "startOffset": 13152,
@@ -4706,11 +5705,28 @@
                         "startOffset": 13152,
                         "endColumn": 88,
                         "endOffset": 13236
+=======
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13451,
+                    "endColumn": 88,
+                    "endOffset": 13535
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 13451,
+                        "endColumn": 88,
+                        "endOffset": 13535
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 175,
                     "startColumn": 4,
                     "startOffset": 13241,
@@ -4725,11 +5741,28 @@
                         "startOffset": 13241,
                         "endColumn": 110,
                         "endOffset": 13347
+=======
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13540,
+                    "endColumn": 110,
+                    "endOffset": 13646
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13540,
+                        "endColumn": 110,
+                        "endOffset": 13646
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 176,
                     "startColumn": 4,
                     "startOffset": 13352,
@@ -4746,11 +5779,30 @@
                         "endLine": 178,
                         "endColumn": 12,
                         "endOffset": 13580
+=======
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13651,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 13879
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13651,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 13879
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 179,
                     "startColumn": 4,
                     "startOffset": 13585,
@@ -4765,11 +5817,28 @@
                         "startOffset": 13585,
                         "endColumn": 100,
                         "endOffset": 13681
+=======
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13884,
+                    "endColumn": 100,
+                    "endOffset": 13980
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 13884,
+                        "endColumn": 100,
+                        "endOffset": 13980
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 180,
                     "startColumn": 4,
                     "startOffset": 13686,
@@ -4784,11 +5853,28 @@
                         "startOffset": 13686,
                         "endColumn": 94,
                         "endOffset": 13776
+=======
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13985,
+                    "endColumn": 94,
+                    "endOffset": 14075
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 13985,
+                        "endColumn": 94,
+                        "endOffset": 14075
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 181,
                     "startColumn": 4,
                     "startOffset": 13781,
@@ -4803,11 +5889,28 @@
                         "startOffset": 13781,
                         "endColumn": 122,
                         "endOffset": 13899
+=======
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 14080,
+                    "endColumn": 122,
+                    "endOffset": 14198
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 14080,
+                        "endColumn": 122,
+                        "endOffset": 14198
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 182,
                     "startColumn": 4,
                     "startOffset": 13904,
@@ -4822,11 +5925,28 @@
                         "startOffset": 13904,
                         "endColumn": 128,
                         "endOffset": 14028
+=======
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14203,
+                    "endColumn": 128,
+                    "endOffset": 14327
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14203,
+                        "endColumn": 128,
+                        "endOffset": 14327
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 183,
                     "startColumn": 4,
                     "startOffset": 14033,
@@ -4841,11 +5961,28 @@
                         "startOffset": 14033,
                         "endColumn": 116,
                         "endOffset": 14145
+=======
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14332,
+                    "endColumn": 116,
+                    "endOffset": 14444
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14332,
+                        "endColumn": 116,
+                        "endOffset": 14444
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 184,
                     "startColumn": 4,
                     "startOffset": 14150,
@@ -4862,11 +5999,30 @@
                         "endLine": 186,
                         "endColumn": 12,
                         "endOffset": 14322
+=======
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14449,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 14621
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14449,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 14621
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 187,
                     "startColumn": 4,
                     "startOffset": 14327,
@@ -4881,11 +6037,28 @@
                         "startOffset": 14327,
                         "endColumn": 98,
                         "endOffset": 14421
+=======
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 14626,
+                    "endColumn": 98,
+                    "endOffset": 14720
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 14626,
+                        "endColumn": 98,
+                        "endOffset": 14720
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 188,
                     "startColumn": 4,
                     "startOffset": 14426,
@@ -4902,11 +6075,30 @@
                         "endLine": 189,
                         "endColumn": 12,
                         "endOffset": 14556
+=======
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14725,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 14855
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14725,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14855
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 190,
                     "startColumn": 4,
                     "startOffset": 14561,
@@ -4923,11 +6115,30 @@
                         "endLine": 191,
                         "endColumn": 12,
                         "endOffset": 14699
+=======
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14860,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14998
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14860,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14998
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 192,
                     "startColumn": 4,
                     "startOffset": 14704,
@@ -4944,11 +6155,30 @@
                         "endLine": 193,
                         "endColumn": 12,
                         "endOffset": 14834
+=======
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 15003,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 15133
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15003,
+                        "endLine": 197,
+                        "endColumn": 12,
+                        "endOffset": 15133
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 194,
                     "startColumn": 4,
                     "startOffset": 14839,
@@ -4965,11 +6195,30 @@
                         "endLine": 195,
                         "endColumn": 12,
                         "endOffset": 14953
+=======
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 15138,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15252
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15138,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15252
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 196,
                     "startColumn": 4,
                     "startOffset": 14958,
@@ -4986,11 +6235,30 @@
                         "endLine": 199,
                         "endColumn": 12,
                         "endOffset": 15154
+=======
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15257,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 15453
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15257,
+                        "endLine": 203,
+                        "endColumn": 12,
+                        "endOffset": 15453
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 200,
                     "startColumn": 4,
                     "startOffset": 15159,
@@ -5007,11 +6275,30 @@
                         "endLine": 201,
                         "endColumn": 12,
                         "endOffset": 15273
+=======
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15458,
+                    "endLine": 205,
+                    "endColumn": 12,
+                    "endOffset": 15572
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15458,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 15572
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 202,
                     "startColumn": 4,
                     "startOffset": 15278,
@@ -5026,11 +6313,28 @@
                         "startOffset": 15278,
                         "endColumn": 92,
                         "endOffset": 15366
+=======
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 15577,
+                    "endColumn": 92,
+                    "endOffset": 15665
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 15577,
+                        "endColumn": 92,
+                        "endOffset": 15665
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 203,
                     "startColumn": 4,
                     "startOffset": 15371,
@@ -5045,11 +6349,28 @@
                         "startOffset": 15371,
                         "endColumn": 110,
                         "endOffset": 15477
+=======
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15670,
+                    "endColumn": 110,
+                    "endOffset": 15776
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15670,
+                        "endColumn": 110,
+                        "endOffset": 15776
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 204,
                     "startColumn": 4,
                     "startOffset": 15482,
@@ -5064,11 +6385,28 @@
                         "startOffset": 15482,
                         "endColumn": 55,
                         "endOffset": 15533
+=======
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15781,
+                    "endColumn": 55,
+                    "endOffset": 15832
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 15781,
+                        "endColumn": 55,
+                        "endOffset": 15832
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 205,
                     "startColumn": 4,
                     "startOffset": 15538,
@@ -5085,11 +6423,30 @@
                         "endLine": 206,
                         "endColumn": 12,
                         "endOffset": 15640
+=======
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15837,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15939
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 15837,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15939
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 207,
                     "startColumn": 4,
                     "startOffset": 15645,
@@ -5106,11 +6463,30 @@
                         "endLine": 210,
                         "endColumn": 12,
                         "endOffset": 15835
+=======
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15944,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 16134
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15944,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16134
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 211,
                     "startColumn": 4,
                     "startOffset": 15840,
@@ -5127,11 +6503,30 @@
                         "endLine": 212,
                         "endColumn": 12,
                         "endOffset": 15946
+=======
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16139,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 16245
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16139,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 16245
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 213,
                     "startColumn": 4,
                     "startOffset": 15951,
@@ -5148,11 +6543,30 @@
                         "endLine": 214,
                         "endColumn": 12,
                         "endOffset": 16079
+=======
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16250,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 16378
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16250,
+                        "endLine": 218,
+                        "endColumn": 12,
+                        "endOffset": 16378
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 215,
                     "startColumn": 4,
                     "startOffset": 16084,
@@ -5167,11 +6581,28 @@
                         "startOffset": 16084,
                         "endColumn": 94,
                         "endOffset": 16174
+=======
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16383,
+                    "endColumn": 94,
+                    "endOffset": 16473
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16383,
+                        "endColumn": 94,
+                        "endOffset": 16473
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 216,
                     "startColumn": 4,
                     "startOffset": 16179,
@@ -5186,11 +6617,28 @@
                         "startOffset": 16179,
                         "endColumn": 90,
                         "endOffset": 16265
+=======
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 16478,
+                    "endColumn": 90,
+                    "endOffset": 16564
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endColumn": 90,
+                        "endOffset": 16564
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 217,
                     "startColumn": 4,
                     "startOffset": 16270,
@@ -5205,11 +6653,28 @@
                         "startOffset": 16270,
                         "endColumn": 90,
                         "endOffset": 16356
+=======
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 16569,
+                    "endColumn": 90,
+                    "endOffset": 16655
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16569,
+                        "endColumn": 90,
+                        "endOffset": 16655
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 218,
                     "startColumn": 4,
                     "startOffset": 16361,
@@ -5224,11 +6689,28 @@
                         "startOffset": 16361,
                         "endColumn": 116,
                         "endOffset": 16473
+=======
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16660,
+                    "endColumn": 116,
+                    "endOffset": 16772
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 16660,
+                        "endColumn": 116,
+                        "endOffset": 16772
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 219,
                     "startColumn": 4,
                     "startOffset": 16478,
@@ -5245,11 +6727,30 @@
                         "endLine": 220,
                         "endColumn": 12,
                         "endOffset": 16612
+=======
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16777,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 16911
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 16777,
+                        "endLine": 224,
+                        "endColumn": 12,
+                        "endOffset": 16911
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 221,
                     "startColumn": 4,
                     "startOffset": 16617,
@@ -5266,11 +6767,28 @@
                         "endLine": 230,
                         "endColumn": 12,
                         "endOffset": 17125
+=======
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16916,
+                    "endColumn": 70,
+                    "endOffset": 16982
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 16916,
+                        "endColumn": 70,
+                        "endOffset": 16982
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 231,
                     "startColumn": 4,
                     "startOffset": 17130,
@@ -5287,11 +6805,87 @@
                         "endLine": 240,
                         "endColumn": 12,
                         "endOffset": 17650
+=======
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16987,
+                    "endColumn": 82,
+                    "endOffset": 17065
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 16987,
+                        "endColumn": 82,
+                        "endOffset": 17065
                     }
                 }
             },
             {
                 "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 17070,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 17745
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 17070,
+                        "endLine": 236,
+                        "endColumn": 12,
+                        "endOffset": 17745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17750,
+                    "endColumn": 56,
+                    "endOffset": 17802
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 17750,
+                        "endColumn": 56,
+                        "endOffset": 17802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 17807,
+                    "endColumn": 57,
+                    "endOffset": 17860
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 17807,
+                        "endColumn": 57,
+                        "endOffset": 17860
+>>>>>>> refs/remotes/origin/master
+                    }
+                }
+            },
+            {
+                "to": {
+<<<<<<< HEAD
                     "startLine": 241,
                     "startColumn": 4,
                     "startOffset": 17655,
@@ -5308,6 +6902,24 @@
                         "endLine": 250,
                         "endColumn": 12,
                         "endOffset": 18330
+=======
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 17865,
+                    "endLine": 250,
+                    "endColumn": 12,
+                    "endOffset": 18554
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 17865,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18554
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
@@ -5315,6 +6927,7 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 18335,
                     "endColumn": 56,
                     "endOffset": 18387
@@ -5327,11 +6940,28 @@
                         "startOffset": 18335,
                         "endColumn": 56,
                         "endOffset": 18387
+=======
+                    "startOffset": 18559,
+                    "endLine": 262,
+                    "endColumn": 12,
+                    "endOffset": 19260
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18559,
+                        "endLine": 262,
+                        "endColumn": 12,
+                        "endOffset": 19260
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 252,
                     "startColumn": 4,
                     "startOffset": 18392,
@@ -5346,11 +6976,28 @@
                         "startOffset": 18392,
                         "endColumn": 57,
                         "endOffset": 18445
+=======
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 19265,
+                    "endColumn": 118,
+                    "endOffset": 19379
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 19265,
+                        "endColumn": 118,
+                        "endOffset": 19379
+>>>>>>> refs/remotes/origin/master
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 253,
                     "startColumn": 4,
                     "startOffset": 18450,
@@ -5360,6 +7007,158 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+=======
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 19384,
+                    "endColumn": 128,
+                    "endOffset": 19508
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 19384,
+                        "endColumn": 128,
+                        "endOffset": 19508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 19513,
+                    "endLine": 267,
+                    "endColumn": 12,
+                    "endOffset": 19679
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 19513,
+                        "endLine": 267,
+                        "endColumn": 12,
+                        "endOffset": 19679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 19684,
+                    "endLine": 270,
+                    "endColumn": 12,
+                    "endOffset": 19845
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 19684,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 19845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 19850,
+                    "endColumn": 128,
+                    "endOffset": 19974
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 19850,
+                        "endColumn": 128,
+                        "endOffset": 19974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 19979,
+                    "endLine": 274,
+                    "endColumn": 12,
+                    "endOffset": 20145
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 19979,
+                        "endLine": 274,
+                        "endColumn": 12,
+                        "endOffset": 20145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 20150,
+                    "endColumn": 130,
+                    "endOffset": 20276
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 20150,
+                        "endColumn": 130,
+                        "endOffset": 20276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 20281,
+                    "endLine": 278,
+                    "endColumn": 12,
+                    "endOffset": 20446
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 20281,
+                        "endLine": 278,
+                        "endColumn": 12,
+                        "endOffset": 20446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 20451,
+                    "endLine": 280,
+                    "endColumn": 12,
+                    "endOffset": 20527
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -5372,6 +7171,7 @@
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 255,
                     "startColumn": 4,
                     "startOffset": 18531,
@@ -5381,6 +7181,17 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-v21\\styles.xml",
+=======
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 20532,
+                    "endLine": 284,
+                    "endColumn": 12,
+                    "endOffset": 20741
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-v21\\styles.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -5393,6 +7204,7 @@
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 259,
                     "startColumn": 4,
                     "startOffset": 18745,
@@ -5402,6 +7214,59 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-v21\\values-v21.xml",
+=======
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 20746,
+                    "endLine": 287,
+                    "endColumn": 12,
+                    "endOffset": 20916
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 20451,
+                        "endLine": 281,
+                        "endColumn": 12,
+                        "endOffset": 20621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 20921,
+                    "endLine": 292,
+                    "endColumn": 12,
+                    "endOffset": 21257
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 20626,
+                        "endLine": 286,
+                        "endColumn": 12,
+                        "endOffset": 20962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 21262,
+                    "endLine": 295,
+                    "endColumn": 12,
+                    "endOffset": 21451
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -16,8 +16,13 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\f87f86e958754f0ab857b18db5149a0ab8e16dd9\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+=======
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+>>>>>>> refs/remotes/origin/master
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
@@ -32,7 +37,16 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\f87f86e958754f0ab857b18db5149a0ab8e16dd9\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
         "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+=======
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+>>>>>>> refs/remotes/origin/master
     }
 ]

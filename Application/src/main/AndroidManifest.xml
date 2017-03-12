@@ -42,11 +42,12 @@
         </activity>
         <activity android:name=".CameraActivity" />
         <activity android:name=".DisplayActivity" />
+        <activity android:name=".FacebookLoginActivity"/>
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDvB4VClWRV4fxFBgHUxuD850bcUV5CcP8 " />
-
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
         <activity android:name=".ActivityList"></activity>
     </application>
 

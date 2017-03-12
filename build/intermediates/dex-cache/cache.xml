@@ -2,301 +2,409 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\10447260b6e2d7ef36f0addac700f0d076b92b8f\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.2.1_4148874f88104e7585be7205809fe2df5bd0a57f\classes.dex" />
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_051a2aa0bfabb7556b879e36bb77e6a41c54f223.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jiliu\.gradle\caches\modules-2\files-2.1\com.clarifai.clarifai-api2\core\2.0.2\2f2018aa773ec96511ed1570e9604c81eaca9076\core-2.0.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="2f2018aa773ec96511ed1570e9604c81eaca9076">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\core-2.0.2_c8a06f580d7fa1a63a2e61f926b44bbcf0e1f776\classes.dex" />
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_51df2c8f195569e2cec8214e88e0e2fae19e767b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jiliu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_4c7595015807a3ea8286ec2f25f5b8125a61fead\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_0046695cb200160527dc550e48a840c667f2e9fb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9e70f49ebe55f7e91067e3b74b6916a42f2ed577\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_06f98fd5a85e142ec4c17c438c62ef0ff2434030\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9f8f1ff88f6f5af4aa04f88f433aaf0a830c2553\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_85973f486cf31652a8fa71bcc3c05f5a2d2ac67a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_fea22ea8cdc14066767a950e6be48efa3340566b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d1a2943ef0eeb0d5aace67129d37dcf284f0be36\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f559ca01a1aa62260af5c099160f30e145d8b06b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_d033c346bd47ec6a729575f87a4c632a551acf1c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_120720dc91082b95132fb35284472384d3086070\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d481299fea27a5cd079640698f0ba3c8af11330e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jiliu\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
+        revision="25.0.0"
         sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.0.1_64d02017f16aed15d9e29edd3a57dabdb633a30b\classes.dex" />
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\commons-io-2.0.1_b1805fbd58df46ed4794b2352427ad9b1c1a88eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\dfb75ad71d0322fc9004cc58fff63937acad4d38\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b12714a387cf882f1527f6ce2ba108246abee39a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jar="C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_987bd836be872aa471042596748e85935d2abadb\classes.dex" />
+        revision="25.0.0"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5c17f76d32b08d46663e1d53bef9434163a7891\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\a90f4dcc61e822056f9d97f8f5158ba2e2c4e8fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_2f121ae462cd002353bd3ccdb121f775ed21b291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_b5c17f76d32b08d46663e1d53bef9434163a7891.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jiliu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jar="C:\Users\MLH Admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_f9d4aaab6ae0bfe7ffb0c2571550b188b7b942bb\classes.dex" />
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_6738d7e17e1ebad77253b8cc4cb08c62ddf25f30\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\729496725cde8d56900348068bb624abd8da3b41\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="29f0539537d439ab6142201d00a0ae74046565a5">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8f6f0f6ca0fbf7382cdaebd386c28a6e47843740\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jiliu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_5675dba663f45640a6d2ad8b5dbecaf94632f9ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a2207420cf847e01f0030fad00f6d75dfbb534ae">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_09a8a950f531d8a460e643be54c5182ad80c51ea\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_43dd3a54cdeb99b53134a9be592c561eae027f66\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7e5f6980f6e5dc20c5c45b77794059af23108c31\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
+        revision="25.0.0"
         sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_d5c11e2c963e89e023bf700a1d3c18de1e162114\classes.dex" />
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_2c0227d5cf51aecd1f23416f31ccba2bb7e8b892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_6738d7e17e1ebad77253b8cc4cb08c62ddf25f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_3f93f88945d55f4b7fe9f482ae3af7b2c32102e6.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\MLH Admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0ef0bb0daee441668f73fe8c0c6c5ec2ed11cee1\classes.dex" />
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_51df2c8f195569e2cec8214e88e0e2fae19e767b\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\7b66850c65bbaa6585158146a293564cb7318743\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ed02788856c5cfb232ba676d211fcdc6dc114454\classes.dex" />
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_326aebfc9b461f0cdff55a49d01d24bf8cc50da5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\jiliu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\ce8d6bcee81e06d922980925be00d219ef66e528\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_c2b8fe9026de6f91735794326e0d7362df2d8f5c\classes.dex" />
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_4f01bef0683ccdedf360975b034323cb375d4329.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\bb6d5be24b26740af160411e0cdf738f6e2a8b87\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
+        revision="25.0.0"
         sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_79eb298b06f199603706be48d6048dab958ae449\classes.dex" />
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_a2756e0e85c36026601a8ce5fab974345d874088.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jiliu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jar="C:\Users\MLH Admin\.android\build-cache\25bdacd40146d738897c4583485780ed94a4355d\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\jiliu\Documents\GitHub\camera_learning\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ccb14569d335337f5a9dcd22174232b4d19cb688\classes.dex" />
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b52dfb6ff2470517863ffd321f386fabe638d00a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\25bdacd40146d738897c4583485780ed94a4355d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_b52dfb6ff2470517863ffd321f386fabe638d00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_7380b7dc574b5f103268e7800c709fe97d16001f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\dfb75ad71d0322fc9004cc58fff63937acad4d38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_c5fd640df9b37c6c794415037bf5e7ab129014b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\66c5b2738bbc86d1473958f233dd9799869fcb4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_9983197d2d17f952f19b7104d245802d8b425bc3.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a563f8c1f9385cee4781f92441d16bc580b5fce3\classes.dex" />
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c933d432ee137b3f629bc89ebd083737d4c1453b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jar="C:\Users\MLH Admin\.android\build-cache\57efa5dcd420aba2d269e3d29dcb218b2616a346\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_49ee49cfb7c3a8589fd4d043efcbe627e4243ae7\classes.dex" />
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d021d469ed74d1af364cc5ce82860d06dc334a84\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\a90f4dcc61e822056f9d97f8f5158ba2e2c4e8fb\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2f77923f4ad4042d2d7a6c50ba56391ee4f5c059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\bcf1bcdb6a8ae2ba8604c0e57e0a95c9a49ab7d2\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c027e1602e0f4576d2a958ea11850474d45b32a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\57efa5dcd420aba2d269e3d29dcb218b2616a346\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_d021d469ed74d1af364cc5ce82860d06dc334a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\17d878d5c0af96487d93b1751dda7c14d8a1d446\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_edd426e98e4d07e628ad865db4915391b520c939.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4e80354a2e8f71dfc362703079120641a50ffdb7\classes.dex" />
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\glide-3.7.0_206ab34ac5233e342fdfdcbfe59d4f13562189c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\17d878d5c0af96487d93b1751dda7c14d8a1d446\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a36d5b7de280ba26b75d9ffd87facd84e263bf6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c933d432ee137b3f629bc89ebd083737d4c1453b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\9ce0c04687e719ed183eba39d719bc61b6f5f2ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_2dc9d925ec503a17361136e4d2042d183f7c8df4.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_1f50edc006c81c4534d9e507eb64fc93c010c8a3\classes.dex" />
+        revision="25.0.0"
+        sha1="37790953d20c215007037a9866c74cde7a83680d">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jar="C:\Users\MLH Admin\.android\build-cache\a90da51260408a70c237bc43e8588f9d9c09f8e4\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\DEV\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9df2f261b09822ff7c13ab5ae564c272c487530b\classes.dex" />
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_589a11a7b3051399e6204b700899309c3b5e5dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f93f88945d55f4b7fe9f482ae3af7b2c32102e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_6a725bd150ce67e27a4d361f9f7de3e3a1b4d2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\a90da51260408a70c237bc43e8588f9d9c09f8e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_589a11a7b3051399e6204b700899309c3b5e5dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\bcf1bcdb6a8ae2ba8604c0e57e0a95c9a49ab7d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_1842d6c41e68ccdbb10d41ffca23859057ce3e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\51f5b4b4745094bac2de3642d1f821957cd9b136\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_a3f758008c3a923d47edf6a755fb931afc3973dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\7b66850c65bbaa6585158146a293564cb7318743\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_84388a72777b0fbe571b31c411b8cd75ff1ffb2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\6a11b37a868efc892b9ef209a37000cca0b1db33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_ef63a0ce5bad3bd39971da83db2930891124f59f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_103cc08be1e1cd3b45d625566c8e06bed8519c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH Admin\.android\build-cache\992f2d06449839513a8f7092ad5e6c852acc1e99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\pre-dexed\debug\classes_0e8f1d5def29a4ab92fea86a09e592c626ae5168.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MLH Admin\.android\build-cache\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_103cc08be1e1cd3b45d625566c8e06bed8519c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MLH Admin\.android\build-cache\10447260b6e2d7ef36f0addac700f0d076b92b8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_051a2aa0bfabb7556b879e36bb77e6a41c54f223\classes.dex" />
     </item>
 
 </items>
