@@ -26904,15 +26904,7 @@
                     "endOffset": 1525
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1896,
-                        "endLine": 66,
-                        "endColumn": 19,
-                        "endOffset": 3311
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -27104,7 +27096,14 @@
                     "endOffset": 2529
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 44,
+                        "endOffset": 1034
+                    }
                 }
             },
             {
@@ -31136,14 +31135,7 @@
                     "endOffset": 59836
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 75,
-                        "startColumn": 4,
-                        "startOffset": 3766,
-                        "endColumn": 63,
-                        "endOffset": 3825
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31203,14 +31195,7 @@
                     "endOffset": 60290
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 77,
-                        "startColumn": 4,
-                        "startOffset": 3876,
-                        "endColumn": 41,
-                        "endOffset": 3913
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31714,14 +31699,7 @@
                     "endOffset": 64733
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 73,
-                        "startColumn": 4,
-                        "startOffset": 3625,
-                        "endColumn": 61,
-                        "endOffset": 3682
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31745,14 +31723,7 @@
                     "endOffset": 64823
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 78,
-                        "startColumn": 4,
-                        "startOffset": 3919,
-                        "endColumn": 39,
-                        "endOffset": 3954
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31776,14 +31747,7 @@
                     "endOffset": 64960
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 74,
-                        "startColumn": 4,
-                        "startOffset": 3688,
-                        "endColumn": 76,
-                        "endOffset": 3760
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31820,14 +31784,7 @@
                     "endOffset": 65372
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 72,
-                        "startColumn": 4,
-                        "startOffset": 3554,
-                        "endColumn": 69,
-                        "endOffset": 3619
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31839,14 +31796,7 @@
                     "endOffset": 65436
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 71,
-                        "startColumn": 4,
-                        "startOffset": 3489,
-                        "endColumn": 63,
-                        "endOffset": 3548
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31858,14 +31808,7 @@
                     "endOffset": 65506
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 69,
-                        "startColumn": 4,
-                        "startOffset": 3365,
-                        "endColumn": 69,
-                        "endOffset": 3430
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -31901,14 +31844,7 @@
                     "endOffset": 66342
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 70,
-                        "startColumn": 4,
-                        "startOffset": 3436,
-                        "endColumn": 51,
-                        "endOffset": 3483
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -32088,14 +32024,7 @@
                     "endOffset": 67314
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 76,
-                        "startColumn": 4,
-                        "startOffset": 3831,
-                        "endColumn": 43,
-                        "endOffset": 3870
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -32107,14 +32036,7 @@
                     "endOffset": 67359
                 },
                 "from": {
-                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 68,
-                        "startColumn": 4,
-                        "startOffset": 3319,
-                        "endColumn": 44,
-                        "endOffset": 3359
-                    }
+                    "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {

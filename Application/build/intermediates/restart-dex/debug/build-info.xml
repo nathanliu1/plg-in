@@ -6,52 +6,49 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1489279597086"
+    timestamp="1489284228328"
     token="3486117611659824234"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="682" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="46" />
+        duration="0" />
     <task
         name="verifier"
-        duration="9" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\outputs\apk\Application-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1489278389419"
+        timestamp="1489284180140"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\outputs\apk\Application-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\outputs\apk\Application-debug.apk"
-            type="SPLIT_MAIN" />
+            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
@@ -73,36 +70,8 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1489279057812"
+        timestamp="1489284228328"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1489279554493"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\outputs\apk\Application-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1489279597086"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\MLH Admin\Desktop\plg-in\Application\build\outputs\apk\Application-debug.apk"
             type="SPLIT_MAIN" />

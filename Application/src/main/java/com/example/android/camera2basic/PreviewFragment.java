@@ -96,7 +96,7 @@ public class PreviewFragment extends Fragment implements View.OnClickListener {
                 switcher.setDisplayedChild(1);
                 mImageView.setVisibility(GONE);
                 sendProcessing.setClickable(false);
-                ((CameraActivity) getActivity()).getLocationPerformWikiAPI(isBitmap);
+                ((CameraActivity) getActivity()).matchEvent(isBitmap);
                 break;
             }
         }

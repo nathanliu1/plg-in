@@ -21,7 +21,7 @@
     <color name="theme_primary_light">#3274BA</color>
     <color name="theme_window_background">#FFF5F5F5</color>
     <color name="theme_divider">#B6B6B6</color>
-    <color name="background">#3274BA</color>
+    <color name="background">#ffcc00</color>
     <color name="primary_text">#212121</color>
     <color name="secondary_text">#727272</color>
 </resources>

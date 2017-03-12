@@ -71,15 +71,7 @@ public class CameraActivity extends Activity implements
     Location mLastLocation;
     Boolean isBitmap;
     Uri imagePath;
-
-    Boolean wikiDone = false;
     String returnedText = "";
-
-
-
-
-
-    runWikiLocationAPI wikilocation =new runWikiLocationAPI();
 
     private static final int MY_PERMISSION_VALUES = 1;
 
@@ -158,7 +150,7 @@ public class CameraActivity extends Activity implements
         Toast.makeText(this, "Failed to connect...", Toast.LENGTH_SHORT).show();
     }
 
-    public void getLocationPerformWikiAPI(boolean isBitmap) {
+    public void matchEvent(boolean isBitmap) {
         this.isBitmap = isBitmap;
         if (ContextCompat.checkSelfPermission(this,Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED
                 && ContextCompat.checkSelfPermission(this,Manifest.permission.ACCESS_COARSE_LOCATION) == PackageManager.PERMISSION_GRANTED ) {
@@ -218,7 +210,7 @@ public class CameraActivity extends Activity implements
                                 lines = lines + line.getValue() + "\n";
                                 for (Text element : line.getComponents()) {
                                     //extract scanned text words here
-                                    words = words + element.getValue() + ", ";
+                                    words = words + element.getValue() + " ";
                                 }
                             }
                         }
