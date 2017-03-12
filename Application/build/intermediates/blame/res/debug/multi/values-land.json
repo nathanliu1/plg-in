@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+=======
         "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 120
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-land\\values-land.xml",
+=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-land\\values-land.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 184
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-land\\values-land.xml",
+=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-land\\values-land.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 255
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-land\\values-land.xml",
+=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-land\\values-land.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 323
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-land\\values-land.xml",
+=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-land\\values-land.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +108,11 @@
                     "endOffset": 505
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\4903c089903cc3b13b20ea5363834b420a1704c9\\output\\res\\values-land\\values-land.xml",
+=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\values-land\\values-land.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

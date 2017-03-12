@@ -1,9 +1,16 @@
 [
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
         "source": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
     },
     {
+=======
+>>>>>>> refs/remotes/origin/master
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
     },
@@ -20,6 +27,10 @@
         "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\preloader_plug.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_forum.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_forum.png"
+=======
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard.png",
         "source": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard.png"
     },
@@ -70,14 +81,65 @@
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_discuss.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_discuss.png"
+>>>>>>> refs/remotes/origin/master
     },
     {
         "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard.png",
         "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_done.png"
+=======
         "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done.png",
+        "source": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_done.png"
+>>>>>>> refs/remotes/origin/master
+    },
+    {
+        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_discuss.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_discuss.png"
+    },
+    {
+        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_forum.png",
+        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_forum.png"
+=======
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done.png",
+        "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_done.png"
+>>>>>>> refs/remotes/origin/master
+    },
+    {
+        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard.png",
+        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_forum.png",
+        "source": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_forum.png"
+    },
+    {
+        "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
+        "source": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_discuss.png",
+        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_discuss.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done.png",
@@ -88,8 +150,12 @@
         "source": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_discuss.png"
     },
     {
-        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done.png",
-        "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_done.png"
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
@@ -98,5 +164,9 @@
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
     }
 ]

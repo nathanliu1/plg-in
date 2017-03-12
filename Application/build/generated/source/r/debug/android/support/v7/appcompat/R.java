@@ -518,6 +518,9 @@ public final class R {
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020050;
         public static final int abc_textfield_search_material = 0x7f020051;
         public static final int abc_vector_test = 0x7f020052;
+<<<<<<< HEAD
+        public static final int notification_template_icon_bg = 0x7f020086;
+=======
         public static final int notification_action_background = 0x7f0200a2;
         public static final int notification_bg = 0x7f0200a3;
         public static final int notification_bg_low = 0x7f0200a4;
@@ -530,6 +533,7 @@ public final class R {
         public static final int notification_template_icon_low_bg = 0x7f0200b7;
         public static final int notification_tile_bg = 0x7f0200aa;
         public static final int notify_panel_notification_icon_bg = 0x7f0200ab;
+>>>>>>> refs/remotes/origin/master
     }
     public static final class id {
         public static final int action0 = 0x7f0c00bb;

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+=======
         "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 117
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
