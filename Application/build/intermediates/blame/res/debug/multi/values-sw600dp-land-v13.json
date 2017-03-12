@@ -52,7 +52,11 @@
         ]
     },
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+=======
         "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -64,7 +68,11 @@
                     "endOffset": 219
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp-land\\styles.xml",
+=======
                     "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp-land\\styles.xml",
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

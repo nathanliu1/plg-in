@@ -16,7 +16,7 @@
         android:layout_below="@+id/logo"
         android:textColor="#ffffff"
         android:textSize="30sp"
-        android:text="Momento"
+        android:text="plg-in"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:id="@+id/textView" />
@@ -25,7 +25,7 @@
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:id="@+id/logo"
-        android:src="@drawable/momento_icon"
+        android:src="@drawable/plgin_icon"
         android:textAppearance="@style/TextAppearance.AppCompat"
         android:layout_marginTop="165dp"
         android:layout_alignParentTop="true"
