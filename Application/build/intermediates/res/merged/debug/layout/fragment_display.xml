@@ -2,6 +2,7 @@
 
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_content"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -22,7 +23,6 @@
             style="@style/SizeSpecificCollapsingToolbarLayout">
 
             <android.support.v7.widget.Toolbar
-                android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
@@ -53,37 +53,94 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <LinearLayout
+            <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="100dp"
                 android:background="#666666">
 
-            </LinearLayout>
+                <TextView
+                    android:id="@+id/eventMonth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="26dp"
+                    android:textAlignment="center"
+                    android:textColor="#ff0000"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/eventDay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/eventMonth"
+                    android:layout_marginLeft="27dp"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/eventTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_toRightOf="@+id/eventMonth"
+                    android:textColor="#ffffff"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/eventHost"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="28dp"
+                    android:layout_marginRight="14dp"
+                    android:layout_toEndOf="@id/eventDay"
+                    android:textColor="#ffffff"
+                    android:textSize="11dp" />
+
+
+            </RelativeLayout>
 
             <!--For Facebook Information-->
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/card_margin">
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="8dp">
 
-                <LinearLayout
+                <RelativeLayout
                     style="@style/Widget.CardContent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
-                    <TextView
-                        android:id="@+id/author"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+                    <ImageView
+                        android:id="@+id/infopic"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginBottom="8dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginTop="8dp"
+                        android:maxHeight="40dp"
+                        android:maxWidth="40dp"
+                        android:src="@drawable/info" />
 
                     <TextView
-                        android:id="@+id/quote"
+                        android:id="@+id/description"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+                        android:layout_toRightOf="@+id/infopic"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                        android:textColor="#666666"
+                        android:textSize="12dp" />
 
-                </LinearLayout>
+                </RelativeLayout>
 
             </android.support.v7.widget.CardView>
 
@@ -92,24 +149,63 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="@dimen/card_margin">
 
-                <LinearLayout
+                <RelativeLayout
                     style="@style/Widget.CardContent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
-                    <TextView
+                    <ImageView
+                        android:id="@+id/fbpic"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginTop="17dp"
+                        android:maxHeight="40dp"
+                        android:maxWidth="40dp"
+                        android:src="@drawable/facebook" />
 
+                    <ImageView
+                        android:id="@+id/iconz"
+                        android:layout_width="20dp"
+                        android:layout_height="65dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_toRightOf="@+id/fbpic"
+                        android:src="@drawable/miniicons" />
+
+                    <TextView
+                        android:id="@+id/fbtime"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+                        android:layout_marginTop="-4dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_toRightOf="@+id/iconz"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                        android:textColor="#666666"
+                        android:textSize="12dp" />
 
                     <TextView
-
+                        android:id="@+id/fblocation"
+                        android:layout_below="@+id/fbtime"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+                        android:layout_toRightOf="@+id/iconz"
+                        android:layout_marginBottom="10dp"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                        android:textColor="#666666"
+                        android:textSize="12dp" />
 
-                </LinearLayout>
+                    <TextView
+                        android:id="@+id/fblink"
+                        android:layout_below="@+id/fblocation"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@+id/iconz"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                        android:textColor="#666666"
+                        android:textSize="12dp" />
+
+                </RelativeLayout>
 
             </android.support.v7.widget.CardView>
 
@@ -118,24 +214,46 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="@dimen/card_margin">
 
-                <LinearLayout
+                <RelativeLayout
                     style="@style/Widget.CardContent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
-                    <TextView
+                <ImageView
+                    android:id="@+id/pagepic"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="17dp"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:src="@drawable/facebook" />
 
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
 
-                    <TextView
+                <TextView
+                    android:id="@+id/pageName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-4dp"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="15dp"
+                    android:layout_toRightOf="@+id/pagepic"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                    android:textColor="#666666" />
 
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+                <TextView
+                    android:id="@+id/pageInfo"
+                    android:layout_below="@+id/pageName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/pagepic"
+                    android:layout_marginBottom="10dp"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                    android:textColor="#666666"
+                    android:textSize="12dp" />
 
-                </LinearLayout>
+                </RelativeLayout>
 
             </android.support.v7.widget.CardView>
 
@@ -162,14 +280,20 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="3dp"
+                android:layout_height="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
                 android:background="#666666" />
 
+
             <TextView
-                android:text="Other Related Event"
-                android:layout_width="wrap_content"
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"/>
+                android:text="Other Related Events"
+                android:gravity="center" />
 
             <!--Suggested events-->
             <android.support.v7.widget.CardView

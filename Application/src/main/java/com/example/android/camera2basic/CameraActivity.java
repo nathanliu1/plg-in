@@ -245,7 +245,7 @@ public class CameraActivity extends Activity implements
                 mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
                 new GraphRequest(
                         AccessToken.getCurrentAccessToken(),
-                        "/search?q="+"research%20symposium%20waterloo"+"&type=event&center="+mLastLocation.getLatitude()+","+mLastLocation.getLongitude()+"&limit=1",
+                        "/search?q="+"niagara%20science%20waterloo"+"&type=event&center="+mLastLocation.getLatitude()+","+mLastLocation.getLongitude()+"&limit=1",
                         null,
                         HttpMethod.GET,
                         new GraphRequest.Callback() {
@@ -326,7 +326,7 @@ public class CameraActivity extends Activity implements
             Log.d("contains id ","dasdas");
             new GraphRequest(
                     AccessToken.getCurrentAccessToken(),
-                    "/" + stringValues.get("eventHostId") + "?fields=events",
+                    "/" + stringValues.get("eventHostId") + "?fields=events,about",
                     null,
                     HttpMethod.GET,
                     new GraphRequest.Callback() {
@@ -346,6 +346,9 @@ public class CameraActivity extends Activity implements
                                     }
                                     stringValues.put("relevantEvents",listIds);
                                 }
+                                if (returnObjVal.has("about")) {
+                                    stringValues.put("aboutHost",returnObjVal.getString("about"));
+                                }
                             } catch (JSONException e) {
                                 e.printStackTrace();
                             }
@@ -359,7 +362,8 @@ public class CameraActivity extends Activity implements
     private void switchToDisplay() {
         Intent i = new Intent(this, DisplayActivity.class);
         if (stringValues.containsKey("description")) {
-            i.putExtra("description",stringValues.get("description").substring(0,150));
+            int pull = Math.min(stringValues.get("description").indexOf("\n"),122);
+            i.putExtra("description",stringValues.get("description").substring(0,pull-2)+"...");
         } else {
             i.putExtra("description","N/A");
         }
@@ -388,15 +392,20 @@ public class CameraActivity extends Activity implements
         } else {
             i.putExtra("name","N/A");
         }
-        if (stringValues.containsKey("event_Id")) {
-            i.putExtra("event_Id",stringValues.get("event_Id"));
+        if (stringValues.containsKey("eventId")) {
+            i.putExtra("eventId",stringValues.get("eventId"));
         } else {
-            i.putExtra("event_Id","N/A");
+            i.putExtra("eventId","N/A");
         }
         if (stringValues.containsKey("eventHostName")) {
             i.putExtra("eventHostName",stringValues.get("eventHostName"));
         } else {
             i.putExtra("eventHostName","N/A");
+        }
+        if (stringValues.containsKey("aboutHost")) {
+            i.putExtra("aboutHost", stringValues.get("aboutHost"));
+        } else {
+            i.putExtra("aboutHost", "N/A");
         }
         if (stringValues.containsKey("eventHostId")) {
             i.putExtra("eventHostId",stringValues.get("eventHostId"));

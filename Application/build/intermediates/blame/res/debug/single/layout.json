@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
         "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
         "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",

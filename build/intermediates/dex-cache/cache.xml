@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="25d2d18086a4d3563126d03117685ed7ac559430">
         <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\MLH Admin\Desktop\plg-in\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\classes.dex" />
     </item>
 
 </items>

@@ -1,7 +1,7 @@
-#Sat Mar 11 21:52:08 PST 2017
-base.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\\classes.dex
-base.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5
-file.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435\\classes.dex
+#Sun Mar 12 03:54:56 PDT 2017
+base.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435\\classes.dex
+base.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435
+file.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\\classes.dex

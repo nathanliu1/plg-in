@@ -16,6 +16,14 @@
         "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_forum.png"
     },
     {
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\miniicons.png",
+        "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\miniicons.png"
+    },
+    {
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\info.png",
+        "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\info.png"
+    },
+    {
         "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard.png",
         "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard.png"
     },
@@ -62,6 +70,10 @@
     {
         "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_forum.png",
         "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_forum.png"
+    },
+    {
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\facebook.png",
+        "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable-xxhdpi\\facebook.png"
     },
     {
         "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu.png",
