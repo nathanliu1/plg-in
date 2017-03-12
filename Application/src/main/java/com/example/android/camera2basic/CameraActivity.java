@@ -243,6 +243,15 @@ public class CameraActivity extends Activity implements
         this.sendBroadcast(mediaScanIntent);
     }
 
+    private void processText() {
+        String processString = returnedText.trim();
+        procesString = processString.replaceAll("[^a-zA-Z]", "");
+
+        //TODO: API call for spellcheck hehexd
+
+
+        returnedText = processString;
+    }
 
 //    @Override
 //    public void processFinish(ArrayList<HashMap<String, String>> output) {
