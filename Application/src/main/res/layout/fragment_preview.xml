@@ -33,7 +33,7 @@
         android:layout_height="112dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:background="#3274BA">
+        android:background="@color/background">
 
         <ImageButton
             android:id="@+id/backToCamera"
@@ -41,7 +41,7 @@
             android:layout_gravity="center_vertical|left"
             android:src="@drawable/back_arrow_drawable_icon"
             android:layout_height="120dp"
-            android:background="#3274BA" />
+            android:background="@color/background" />
 
         <ImageButton
             android:id="@+id/sendForProcessing"
@@ -50,7 +50,7 @@
             android:layout_height="120dp"
             android:layout_gravity="center_vertical|right"
             android:src="@drawable/forward_arrow_drawable_icon"
-            android:background="#3274BA" />
+            android:background="@color/background" />
 
     </FrameLayout>
 
