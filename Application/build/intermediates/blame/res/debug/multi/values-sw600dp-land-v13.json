@@ -1,62 +1,6 @@
 [
     {
-        "outputFile": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 5,
-                    "endColumn": 12,
-                    "endOffset": 219
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\src\\main\\res\\values-sw600dp-land\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endLine": 6,
-                        "endColumn": 12,
-                        "endOffset": 220
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 5,
-                    "endColumn": 12,
-                    "endOffset": 219
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\src\\main\\res\\values-sw600dp-land\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endLine": 6,
-                        "endColumn": 12,
-                        "endOffset": 226
-                    }
-                }
-            }
-        ]
-    },
-    {
-<<<<<<< HEAD
-        "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
-=======
         "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
->>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -68,11 +12,7 @@
                     "endOffset": 219
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\values-sw600dp-land\\styles.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\values-sw600dp-land\\styles.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

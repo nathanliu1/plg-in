@@ -28,8 +28,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/momento_icon"
-        android:label="@string/app_name"
+        android:icon="@drawable/plgin_icon"
+        android:label="Plg-In"
         android:theme="@style/Base.Theme">
         <activity
             android:name=".StartupActivity"

@@ -1,23 +1,12 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
-=======
         "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
->>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-<<<<<<< HEAD
-                    "endColumn": 109,
-                    "endOffset": 210
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "endColumn": 145,
                     "endOffset": 246
                 },
@@ -441,7 +430,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -453,16 +441,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 215,
-                    "endColumn": 195,
-                    "endOffset": 406
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 25,
                     "startColumn": 4,
                     "startOffset": 2250,
@@ -471,7 +449,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -483,16 +460,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 411,
-                    "endColumn": 125,
-                    "endOffset": 532
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 26,
                     "startColumn": 4,
                     "startOffset": 2446,
@@ -501,7 +468,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -513,16 +479,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 537,
-                    "endColumn": 113,
-                    "endOffset": 646
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 27,
                     "startColumn": 4,
                     "startOffset": 2572,
@@ -531,7 +487,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -543,16 +498,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 651,
-                    "endColumn": 203,
-                    "endOffset": 850
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 28,
                     "startColumn": 4,
                     "startOffset": 2686,
@@ -561,7 +506,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -573,16 +517,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 855,
-                    "endColumn": 122,
-                    "endOffset": 973
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 29,
                     "startColumn": 4,
                     "startOffset": 2890,
@@ -591,7 +525,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -603,16 +536,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 978,
-                    "endColumn": 128,
-                    "endOffset": 1102
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 30,
                     "startColumn": 4,
                     "startOffset": 3013,
@@ -621,7 +544,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -633,16 +555,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 1107,
-                    "endColumn": 201,
-                    "endOffset": 1304
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\729496725cde8d56900348068bb624abd8da3b41\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 31,
                     "startColumn": 4,
                     "startOffset": 3142,
@@ -651,7 +563,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\729496725cde8d56900348068bb624abd8da3b41\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -663,16 +574,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 1309,
-                    "endColumn": 207,
-                    "endOffset": 1512
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 32,
                     "startColumn": 4,
                     "startOffset": 3344,
@@ -681,7 +582,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -693,16 +593,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1517,
-                    "endColumn": 112,
-                    "endOffset": 1625
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 33,
                     "startColumn": 4,
                     "startOffset": 3552,
@@ -711,7 +601,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -723,16 +612,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1630,
-                    "endColumn": 184,
-                    "endOffset": 1810
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 34,
                     "startColumn": 4,
                     "startOffset": 3665,
@@ -741,7 +620,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -753,16 +631,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1815,
-                    "endColumn": 128,
-                    "endOffset": 1939
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 35,
                     "startColumn": 4,
                     "startOffset": 3850,
@@ -771,7 +639,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -783,16 +650,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1944,
-                    "endColumn": 200,
-                    "endOffset": 2140
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 36,
                     "startColumn": 4,
                     "startOffset": 3979,
@@ -801,7 +658,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -813,16 +669,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 2145,
-                    "endColumn": 185,
-                    "endOffset": 2326
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 37,
                     "startColumn": 4,
                     "startOffset": 4180,
@@ -831,7 +677,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -843,16 +688,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 2331,
-                    "endColumn": 89,
-                    "endOffset": 2416
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 38,
                     "startColumn": 4,
                     "startOffset": 4366,
@@ -861,7 +696,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -873,16 +707,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 2421,
-                    "endColumn": 95,
-                    "endOffset": 2512
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 39,
                     "startColumn": 4,
                     "startOffset": 4456,
@@ -891,7 +715,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -903,16 +726,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 2517,
-                    "endColumn": 109,
-                    "endOffset": 2622
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
-=======
                     "startLine": 40,
                     "startColumn": 4,
                     "startOffset": 4552,
@@ -921,7 +734,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-mr\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -930,8 +742,6 @@
                         "endOffset": 2558
                     }
                 }
-<<<<<<< HEAD
-=======
             },
             {
                 "to": {
@@ -949,663 +759,6 @@
                         "startOffset": 2090,
                         "endColumn": 60,
                         "endOffset": 2146
-                    }
-                }
->>>>>>> refs/remotes/origin/master
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 109,
-                    "endOffset": 210
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 283,
-                        "endColumn": 105,
-                        "endOffset": 388
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 215,
-                    "endColumn": 195,
-                    "endOffset": 406
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 0,
-                        "startOffset": 389,
-                        "endColumn": 195,
-                        "endOffset": 584
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 411,
-                    "endColumn": 125,
-                    "endOffset": 532
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 0,
-                        "startOffset": 585,
-                        "endColumn": 121,
-                        "endOffset": 706
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 537,
-                    "endColumn": 113,
-                    "endOffset": 646
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 0,
-                        "startOffset": 707,
-                        "endColumn": 109,
-                        "endOffset": 816
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 651,
-                    "endColumn": 203,
-                    "endOffset": 850
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 0,
-                        "startOffset": 817,
-                        "endColumn": 203,
-                        "endOffset": 1020
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 855,
-                    "endColumn": 122,
-                    "endOffset": 973
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 0,
-                        "startOffset": 1021,
-                        "endColumn": 118,
-                        "endOffset": 1139
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 978,
-                    "endColumn": 128,
-                    "endOffset": 1102
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 0,
-                        "startOffset": 1140,
-                        "endColumn": 124,
-                        "endOffset": 1264
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 1107,
-                    "endColumn": 201,
-                    "endOffset": 1304
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\768d43d340824ea72ea870fafcdd38827682e35e\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 285,
-                        "endColumn": 201,
-                        "endOffset": 486
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 1309,
-                    "endColumn": 207,
-                    "endOffset": 1512
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 0,
-                        "startOffset": 1265,
-                        "endColumn": 207,
-                        "endOffset": 1472
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1517,
-                    "endColumn": 112,
-                    "endOffset": 1625
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 0,
-                        "startOffset": 1473,
-                        "endColumn": 108,
-                        "endOffset": 1581
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1630,
-                    "endColumn": 184,
-                    "endOffset": 1810
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 0,
-                        "startOffset": 1582,
-                        "endColumn": 184,
-                        "endOffset": 1766
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1815,
-                    "endColumn": 128,
-                    "endOffset": 1939
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 0,
-                        "startOffset": 1767,
-                        "endColumn": 124,
-                        "endOffset": 1891
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1944,
-                    "endColumn": 200,
-                    "endOffset": 2140
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 0,
-                        "startOffset": 1892,
-                        "endColumn": 200,
-                        "endOffset": 2092
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 2145,
-                    "endColumn": 185,
-                    "endOffset": 2326
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 0,
-                        "startOffset": 2093,
-                        "endColumn": 181,
-                        "endOffset": 2274
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 2331,
-                    "endColumn": 89,
-                    "endOffset": 2416
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 0,
-                        "startOffset": 2275,
-                        "endColumn": 85,
-                        "endOffset": 2360
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 2421,
-                    "endColumn": 95,
-                    "endOffset": 2512
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 0,
-                        "startOffset": 2361,
-                        "endColumn": 91,
-                        "endOffset": 2452
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 2517,
-                    "endColumn": 109,
-                    "endOffset": 2622
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 0,
-                        "startOffset": 2453,
-                        "endColumn": 105,
-                        "endOffset": 2558
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 109,
-                    "endOffset": 210
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 283,
-                        "endColumn": 105,
-                        "endOffset": 388
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 215,
-                    "endColumn": 195,
-                    "endOffset": 406
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 0,
-                        "startOffset": 389,
-                        "endColumn": 195,
-                        "endOffset": 584
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 411,
-                    "endColumn": 125,
-                    "endOffset": 532
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 0,
-                        "startOffset": 585,
-                        "endColumn": 121,
-                        "endOffset": 706
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 537,
-                    "endColumn": 113,
-                    "endOffset": 646
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 0,
-                        "startOffset": 707,
-                        "endColumn": 109,
-                        "endOffset": 816
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 651,
-                    "endColumn": 203,
-                    "endOffset": 850
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 0,
-                        "startOffset": 817,
-                        "endColumn": 203,
-                        "endOffset": 1020
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 855,
-                    "endColumn": 122,
-                    "endOffset": 973
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 0,
-                        "startOffset": 1021,
-                        "endColumn": 118,
-                        "endOffset": 1139
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 978,
-                    "endColumn": 128,
-                    "endOffset": 1102
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 0,
-                        "startOffset": 1140,
-                        "endColumn": 124,
-                        "endOffset": 1264
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 1107,
-                    "endColumn": 201,
-                    "endOffset": 1304
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 285,
-                        "endColumn": 201,
-                        "endOffset": 486
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 1309,
-                    "endColumn": 207,
-                    "endOffset": 1512
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 0,
-                        "startOffset": 1265,
-                        "endColumn": 207,
-                        "endOffset": 1472
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1517,
-                    "endColumn": 112,
-                    "endOffset": 1625
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 0,
-                        "startOffset": 1473,
-                        "endColumn": 108,
-                        "endOffset": 1581
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1630,
-                    "endColumn": 184,
-                    "endOffset": 1810
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 0,
-                        "startOffset": 1582,
-                        "endColumn": 184,
-                        "endOffset": 1766
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1815,
-                    "endColumn": 128,
-                    "endOffset": 1939
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 0,
-                        "startOffset": 1767,
-                        "endColumn": 124,
-                        "endOffset": 1891
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1944,
-                    "endColumn": 200,
-                    "endOffset": 2140
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 0,
-                        "startOffset": 1892,
-                        "endColumn": 200,
-                        "endOffset": 2092
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 2145,
-                    "endColumn": 185,
-                    "endOffset": 2326
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 0,
-                        "startOffset": 2093,
-                        "endColumn": 181,
-                        "endOffset": 2274
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 2331,
-                    "endColumn": 89,
-                    "endOffset": 2416
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 0,
-                        "startOffset": 2275,
-                        "endColumn": 85,
-                        "endOffset": 2360
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 2421,
-                    "endColumn": 95,
-                    "endOffset": 2512
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 0,
-                        "startOffset": 2361,
-                        "endColumn": 91,
-                        "endOffset": 2452
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 2517,
-                    "endColumn": 109,
-                    "endOffset": 2622
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 0,
-                        "startOffset": 2453,
-                        "endColumn": 105,
-                        "endOffset": 2558
                     }
                 }
             }

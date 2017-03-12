@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
-=======
         "outputFile": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 196
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -38,11 +30,7 @@
                     "endOffset": 303
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -61,11 +49,7 @@
                     "endOffset": 426
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -84,11 +68,7 @@
                     "endOffset": 521
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -107,11 +87,7 @@
                     "endOffset": 621
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -130,11 +106,7 @@
                     "endOffset": 703
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -153,11 +125,7 @@
                     "endOffset": 800
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -176,11 +144,7 @@
                     "endOffset": 906
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -199,11 +163,7 @@
                     "endOffset": 982
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,11 +182,7 @@
                     "endOffset": 1058
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -245,11 +201,7 @@
                     "endOffset": 1136
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -268,11 +220,7 @@
                     "endOffset": 1232
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -291,11 +239,7 @@
                     "endOffset": 1328
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -314,11 +258,7 @@
                     "endOffset": 1423
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -337,11 +277,7 @@
                     "endOffset": 1520
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -360,11 +296,7 @@
                     "endOffset": 1615
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -383,11 +315,7 @@
                     "endOffset": 1713
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -406,11 +334,7 @@
                     "endOffset": 1825
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -429,11 +353,7 @@
                     "endOffset": 1919
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -448,13 +368,6 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 1924,
-<<<<<<< HEAD
-                    "endColumn": 102,
-                    "endOffset": 2022
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "endColumn": 115,
                     "endOffset": 2035
                 },
@@ -878,7 +791,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -890,16 +802,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2027,
-                    "endColumn": 160,
-                    "endOffset": 2183
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 44,
                     "startColumn": 4,
                     "startOffset": 3747,
@@ -908,7 +810,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -920,16 +821,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2188,
-                    "endColumn": 116,
-                    "endOffset": 2300
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 45,
                     "startColumn": 4,
                     "startOffset": 3908,
@@ -938,7 +829,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -950,16 +840,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2305,
-                    "endColumn": 103,
-                    "endOffset": 2404
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 46,
                     "startColumn": 4,
                     "startOffset": 4025,
@@ -968,7 +848,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -980,16 +859,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2409,
-                    "endColumn": 163,
-                    "endOffset": 2568
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 47,
                     "startColumn": 4,
                     "startOffset": 4129,
@@ -998,7 +867,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -1010,16 +878,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2573,
-                    "endColumn": 117,
-                    "endOffset": 2686
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 48,
                     "startColumn": 4,
                     "startOffset": 4293,
@@ -1028,7 +886,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -1040,16 +897,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2691,
-                    "endColumn": 120,
-                    "endOffset": 2807
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 49,
                     "startColumn": 4,
                     "startOffset": 4411,
@@ -1058,7 +905,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -1070,16 +916,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2812,
-                    "endColumn": 157,
-                    "endOffset": 2965
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\729496725cde8d56900348068bb624abd8da3b41\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 50,
                     "startColumn": 4,
                     "startOffset": 4532,
@@ -1088,7 +924,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\729496725cde8d56900348068bb624abd8da3b41\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1100,16 +935,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2970,
-                    "endColumn": 166,
-                    "endOffset": 3132
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 51,
                     "startColumn": 4,
                     "startOffset": 4690,
@@ -1118,7 +943,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -1130,16 +954,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 3137,
-                    "endColumn": 102,
-                    "endOffset": 3235
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 52,
                     "startColumn": 4,
                     "startOffset": 4857,
@@ -1148,7 +962,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -1160,16 +973,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3240,
-                    "endColumn": 160,
-                    "endOffset": 3396
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 53,
                     "startColumn": 4,
                     "startOffset": 4960,
@@ -1178,7 +981,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -1190,16 +992,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3401,
-                    "endColumn": 116,
-                    "endOffset": 3513
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 54,
                     "startColumn": 4,
                     "startOffset": 5121,
@@ -1208,7 +1000,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -1220,16 +1011,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3518,
-                    "endColumn": 162,
-                    "endOffset": 3676
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 55,
                     "startColumn": 4,
                     "startOffset": 5238,
@@ -1238,7 +1019,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -1250,16 +1030,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 3681,
-                    "endColumn": 137,
-                    "endOffset": 3814
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 56,
                     "startColumn": 4,
                     "startOffset": 5401,
@@ -1268,7 +1038,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -1280,16 +1049,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 3819,
-                    "endColumn": 85,
-                    "endOffset": 3900
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 57,
                     "startColumn": 4,
                     "startOffset": 5539,
@@ -1298,7 +1057,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -1310,16 +1068,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 3905,
-                    "endColumn": 86,
-                    "endOffset": 3987
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 58,
                     "startColumn": 4,
                     "startOffset": 5625,
@@ -1328,7 +1076,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -1340,16 +1087,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 3992,
-                    "endColumn": 102,
-                    "endOffset": 4090
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
-=======
                     "startLine": 59,
                     "startColumn": 4,
                     "startOffset": 5712,
@@ -1358,7 +1095,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\values-zh-rCN\\values.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -1370,16 +1106,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4095,
-                    "endColumn": 77,
-                    "endOffset": 4168
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "startLine": 60,
                     "startColumn": 4,
                     "startOffset": 5815,
@@ -1407,7 +1133,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1419,16 +1144,6 @@
             },
             {
                 "to": {
-<<<<<<< HEAD
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4173,
-                    "endColumn": 100,
-                    "endOffset": 4269
-                },
-                "from": {
-                    "file": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-=======
                     "startLine": 62,
                     "startColumn": 4,
                     "startOffset": 5951,
@@ -1437,1461 +1152,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\MLH Admin\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
->>>>>>> refs/remotes/origin/master
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1952,
-                        "endColumn": 100,
-                        "endOffset": 2048
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 95,
-                    "endOffset": 196
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 95,
-                        "endOffset": 146
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 201,
-                    "endColumn": 106,
-                    "endOffset": 303
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 151,
-                        "endColumn": 106,
-                        "endOffset": 253
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 308,
-                    "endColumn": 122,
-                    "endOffset": 426
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 258,
-                        "endColumn": 122,
-                        "endOffset": 376
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 431,
-                    "endColumn": 94,
-                    "endOffset": 521
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 381,
-                        "endColumn": 94,
-                        "endOffset": 471
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 526,
-                    "endColumn": 99,
-                    "endOffset": 621
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 476,
-                        "endColumn": 99,
-                        "endOffset": 571
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 626,
-                    "endColumn": 81,
-                    "endOffset": 703
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 576,
-                        "endColumn": 81,
-                        "endOffset": 653
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 708,
-                    "endColumn": 96,
-                    "endOffset": 800
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 658,
-                        "endColumn": 96,
-                        "endOffset": 750
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 805,
-                    "endColumn": 105,
-                    "endOffset": 906
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 755,
-                        "endColumn": 105,
-                        "endOffset": 856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 911,
-                    "endColumn": 75,
-                    "endOffset": 982
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 861,
-                        "endColumn": 75,
-                        "endOffset": 932
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 987,
-                    "endColumn": 75,
-                    "endOffset": 1058
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 937,
-                        "endColumn": 75,
-                        "endOffset": 1008
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1063,
-                    "endColumn": 77,
-                    "endOffset": 1136
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1013,
-                        "endColumn": 77,
-                        "endOffset": 1086
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1141,
-                    "endColumn": 95,
-                    "endOffset": 1232
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1091,
-                        "endColumn": 95,
-                        "endOffset": 1182
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1237,
-                    "endColumn": 95,
-                    "endOffset": 1328
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1187,
-                        "endColumn": 95,
-                        "endOffset": 1278
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1333,
-                    "endColumn": 94,
-                    "endOffset": 1423
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1283,
-                        "endColumn": 94,
-                        "endOffset": 1373
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1428,
-                    "endColumn": 96,
-                    "endOffset": 1520
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1378,
-                        "endColumn": 96,
-                        "endOffset": 1470
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1525,
-                    "endColumn": 94,
-                    "endOffset": 1615
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1475,
-                        "endColumn": 94,
-                        "endOffset": 1565
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1620,
-                    "endColumn": 97,
-                    "endOffset": 1713
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1570,
-                        "endColumn": 97,
-                        "endOffset": 1663
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1718,
-                    "endColumn": 111,
-                    "endOffset": 1825
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 111,
-                        "endOffset": 1775
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1830,
-                    "endColumn": 93,
-                    "endOffset": 1919
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1780,
-                        "endColumn": 93,
-                        "endOffset": 1869
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1924,
-                    "endColumn": 102,
-                    "endOffset": 2022
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 287,
-                        "endColumn": 98,
-                        "endOffset": 385
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2027,
-                    "endColumn": 160,
-                    "endOffset": 2183
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 0,
-                        "startOffset": 386,
-                        "endColumn": 160,
-                        "endOffset": 546
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2188,
-                    "endColumn": 116,
-                    "endOffset": 2300
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 0,
-                        "startOffset": 547,
-                        "endColumn": 112,
-                        "endOffset": 659
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2305,
-                    "endColumn": 103,
-                    "endOffset": 2404
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 0,
-                        "startOffset": 660,
-                        "endColumn": 99,
-                        "endOffset": 759
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2409,
-                    "endColumn": 163,
-                    "endOffset": 2568
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 0,
-                        "startOffset": 760,
-                        "endColumn": 163,
-                        "endOffset": 923
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2573,
-                    "endColumn": 117,
-                    "endOffset": 2686
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 0,
-                        "startOffset": 924,
-                        "endColumn": 113,
-                        "endOffset": 1037
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2691,
-                    "endColumn": 120,
-                    "endOffset": 2807
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 0,
-                        "startOffset": 1038,
-                        "endColumn": 116,
-                        "endOffset": 1154
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2812,
-                    "endColumn": 157,
-                    "endOffset": 2965
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 289,
-                        "endColumn": 157,
-                        "endOffset": 446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2970,
-                    "endColumn": 166,
-                    "endOffset": 3132
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 0,
-                        "startOffset": 1155,
-                        "endColumn": 166,
-                        "endOffset": 1321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 3137,
-                    "endColumn": 102,
-                    "endOffset": 3235
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 0,
-                        "startOffset": 1322,
-                        "endColumn": 98,
-                        "endOffset": 1420
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3240,
-                    "endColumn": 160,
-                    "endOffset": 3396
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 0,
-                        "startOffset": 1421,
-                        "endColumn": 160,
-                        "endOffset": 1581
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3401,
-                    "endColumn": 116,
-                    "endOffset": 3513
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 0,
-                        "startOffset": 1582,
-                        "endColumn": 112,
-                        "endOffset": 1694
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3518,
-                    "endColumn": 162,
-                    "endOffset": 3676
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 0,
-                        "startOffset": 1695,
-                        "endColumn": 162,
-                        "endOffset": 1857
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 3681,
-                    "endColumn": 137,
-                    "endOffset": 3814
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 0,
-                        "startOffset": 1858,
-                        "endColumn": 133,
-                        "endOffset": 1991
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 3819,
-                    "endColumn": 85,
-                    "endOffset": 3900
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 0,
-                        "startOffset": 1992,
-                        "endColumn": 81,
-                        "endOffset": 2073
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 3905,
-                    "endColumn": 86,
-                    "endOffset": 3987
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 0,
-                        "startOffset": 2074,
-                        "endColumn": 82,
-                        "endOffset": 2156
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 3992,
-                    "endColumn": 102,
-                    "endOffset": 4090
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 0,
-                        "startOffset": 2157,
-                        "endColumn": 98,
-                        "endOffset": 2255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4095,
-                    "endColumn": 77,
-                    "endOffset": 4168
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1874,
-                        "endColumn": 77,
-                        "endOffset": 1947
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4173,
-                    "endColumn": 100,
-                    "endOffset": 4269
-                },
-                "from": {
-                    "file": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1952,
-                        "endColumn": 100,
-                        "endOffset": 2048
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 95,
-                    "endOffset": 196
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 95,
-                        "endOffset": 146
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 201,
-                    "endColumn": 106,
-                    "endOffset": 303
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 151,
-                        "endColumn": 106,
-                        "endOffset": 253
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 308,
-                    "endColumn": 122,
-                    "endOffset": 426
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 258,
-                        "endColumn": 122,
-                        "endOffset": 376
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 431,
-                    "endColumn": 94,
-                    "endOffset": 521
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 381,
-                        "endColumn": 94,
-                        "endOffset": 471
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 526,
-                    "endColumn": 99,
-                    "endOffset": 621
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 476,
-                        "endColumn": 99,
-                        "endOffset": 571
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 626,
-                    "endColumn": 81,
-                    "endOffset": 703
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 576,
-                        "endColumn": 81,
-                        "endOffset": 653
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 708,
-                    "endColumn": 96,
-                    "endOffset": 800
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 658,
-                        "endColumn": 96,
-                        "endOffset": 750
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 805,
-                    "endColumn": 105,
-                    "endOffset": 906
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 755,
-                        "endColumn": 105,
-                        "endOffset": 856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 911,
-                    "endColumn": 75,
-                    "endOffset": 982
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 861,
-                        "endColumn": 75,
-                        "endOffset": 932
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 987,
-                    "endColumn": 75,
-                    "endOffset": 1058
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 937,
-                        "endColumn": 75,
-                        "endOffset": 1008
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1063,
-                    "endColumn": 77,
-                    "endOffset": 1136
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1013,
-                        "endColumn": 77,
-                        "endOffset": 1086
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1141,
-                    "endColumn": 95,
-                    "endOffset": 1232
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1091,
-                        "endColumn": 95,
-                        "endOffset": 1182
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1237,
-                    "endColumn": 95,
-                    "endOffset": 1328
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1187,
-                        "endColumn": 95,
-                        "endOffset": 1278
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1333,
-                    "endColumn": 94,
-                    "endOffset": 1423
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1283,
-                        "endColumn": 94,
-                        "endOffset": 1373
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1428,
-                    "endColumn": 96,
-                    "endOffset": 1520
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1378,
-                        "endColumn": 96,
-                        "endOffset": 1470
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1525,
-                    "endColumn": 94,
-                    "endOffset": 1615
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1475,
-                        "endColumn": 94,
-                        "endOffset": 1565
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1620,
-                    "endColumn": 97,
-                    "endOffset": 1713
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1570,
-                        "endColumn": 97,
-                        "endOffset": 1663
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1718,
-                    "endColumn": 111,
-                    "endOffset": 1825
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 111,
-                        "endOffset": 1775
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1830,
-                    "endColumn": 93,
-                    "endOffset": 1919
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1780,
-                        "endColumn": 93,
-                        "endOffset": 1869
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1924,
-                    "endColumn": 102,
-                    "endOffset": 2022
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 287,
-                        "endColumn": 98,
-                        "endOffset": 385
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2027,
-                    "endColumn": 160,
-                    "endOffset": 2183
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 0,
-                        "startOffset": 386,
-                        "endColumn": 160,
-                        "endOffset": 546
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2188,
-                    "endColumn": 116,
-                    "endOffset": 2300
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 0,
-                        "startOffset": 547,
-                        "endColumn": 112,
-                        "endOffset": 659
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2305,
-                    "endColumn": 103,
-                    "endOffset": 2404
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 0,
-                        "startOffset": 660,
-                        "endColumn": 99,
-                        "endOffset": 759
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2409,
-                    "endColumn": 163,
-                    "endOffset": 2568
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 0,
-                        "startOffset": 760,
-                        "endColumn": 163,
-                        "endOffset": 923
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2573,
-                    "endColumn": 117,
-                    "endOffset": 2686
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 0,
-                        "startOffset": 924,
-                        "endColumn": 113,
-                        "endOffset": 1037
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2691,
-                    "endColumn": 120,
-                    "endOffset": 2807
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 0,
-                        "startOffset": 1038,
-                        "endColumn": 116,
-                        "endOffset": 1154
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2812,
-                    "endColumn": 157,
-                    "endOffset": 2965
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\768d43d340824ea72ea870fafcdd38827682e35e\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 289,
-                        "endColumn": 157,
-                        "endOffset": 446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2970,
-                    "endColumn": 166,
-                    "endOffset": 3132
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 0,
-                        "startOffset": 1155,
-                        "endColumn": 166,
-                        "endOffset": 1321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 3137,
-                    "endColumn": 102,
-                    "endOffset": 3235
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 0,
-                        "startOffset": 1322,
-                        "endColumn": 98,
-                        "endOffset": 1420
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3240,
-                    "endColumn": 160,
-                    "endOffset": 3396
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 0,
-                        "startOffset": 1421,
-                        "endColumn": 160,
-                        "endOffset": 1581
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3401,
-                    "endColumn": 116,
-                    "endOffset": 3513
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 0,
-                        "startOffset": 1582,
-                        "endColumn": 112,
-                        "endOffset": 1694
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3518,
-                    "endColumn": 162,
-                    "endOffset": 3676
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 0,
-                        "startOffset": 1695,
-                        "endColumn": 162,
-                        "endOffset": 1857
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 3681,
-                    "endColumn": 137,
-                    "endOffset": 3814
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 0,
-                        "startOffset": 1858,
-                        "endColumn": 133,
-                        "endOffset": 1991
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 3819,
-                    "endColumn": 85,
-                    "endOffset": 3900
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 0,
-                        "startOffset": 1992,
-                        "endColumn": 81,
-                        "endOffset": 2073
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 3905,
-                    "endColumn": 86,
-                    "endOffset": 3987
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 0,
-                        "startOffset": 2074,
-                        "endColumn": 82,
-                        "endOffset": 2156
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 3992,
-                    "endColumn": 102,
-                    "endOffset": 4090
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\values-zh-rCN\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 0,
-                        "startOffset": 2157,
-                        "endColumn": 98,
-                        "endOffset": 2255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4095,
-                    "endColumn": 77,
-                    "endOffset": 4168
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1874,
-                        "endColumn": 77,
-                        "endOffset": 1947
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4173,
-                    "endColumn": 100,
-                    "endOffset": 4269
-                },
-                "from": {
-                    "file": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

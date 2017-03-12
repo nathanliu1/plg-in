@@ -3245,8 +3245,8 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f0200a7;
         public static final int notification_bg_normal_pressed=0x7f0200a8;
         public static final int notification_icon_background=0x7f0200a9;
-        public static final int notification_template_icon_bg=0x7f0200b6;
-        public static final int notification_template_icon_low_bg=0x7f0200b7;
+        public static final int notification_template_icon_bg=0x7f0200b7;
+        public static final int notification_template_icon_low_bg=0x7f0200b8;
         public static final int notification_tile_bg=0x7f0200aa;
         public static final int notify_panel_notification_icon_bg=0x7f0200ab;
         public static final int p1=0x7f0200ac;
@@ -3254,11 +3254,12 @@ containing a value of this type.
         public static final int p3=0x7f0200ae;
         public static final int p4=0x7f0200af;
         public static final int p5=0x7f0200b0;
-        public static final int preloader_plug=0x7f0200b1;
-        public static final int previous_tags_drawable_icon=0x7f0200b2;
-        public static final int splash_screen=0x7f0200b3;
-        public static final int splash_screen_drawable=0x7f0200b4;
-        public static final int tile=0x7f0200b5;
+        public static final int plgin_icon=0x7f0200b1;
+        public static final int preloader_plug=0x7f0200b2;
+        public static final int previous_tags_drawable_icon=0x7f0200b3;
+        public static final int splash_screen=0x7f0200b4;
+        public static final int splash_screen_drawable=0x7f0200b5;
+        public static final int tile=0x7f0200b6;
     }
     public static final class id {
         public static final int _fb_login=0x7f0c0086;
