@@ -26,7 +26,7 @@
             android:layout_gravity="center_vertical|left"
             android:src="@drawable/drawer_show_drawable_icon"
             android:layout_height="120dp"
-            android:background="#3274BA" />
+            android:background="#666666" />
 
         <ImageButton
             android:id="@+id/picture"
@@ -35,7 +35,7 @@
             android:layout_centerInParent="true"
             android:src="@drawable/camera_drawable_icon"
             android:layout_height="120dp"
-            android:background="#3274BA" />
+            android:background="#666666" />
 
         <ImageButton
             android:id="@+id/info"
@@ -44,7 +44,7 @@
             android:layout_height="120dp"
             android:layout_gravity="center_vertical|right"
             android:src="@drawable/previous_tags_drawable_icon"
-            android:background="#3274BA" />
+            android:background="#666666" />
 
     </FrameLayout>
 

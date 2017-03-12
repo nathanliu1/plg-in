@@ -17,31 +17,33 @@ import java.io.IOException;
 
 public class DisplayActivity extends AppCompatActivity {
 
-    String imageDir;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display);
 
-        String title = getIntent().getExtras().getString("title");
-        String pageid = getIntent().getExtras().getString("pageid");
-        String extract = getIntent().getExtras().getString("extract");
-        Double distance = getIntent().getExtras().getDouble("distance");
-        String lat = getIntent().getExtras().getString("lat");
-        String longitude = getIntent().getExtras().getString("long");
-        imageDir = getIntent().getExtras().getString("image");
+
+//        String title = getIntent().getExtras().getString("title");
+//        String pageid = getIntent().getExtras().getString("pageid");
+//        String extract = getIntent().getExtras().getString("extract");
+        String relevantEvents = getIntent().getExtras().getString("relevantEvents");
+        String eventHostName = getIntent().getExtras().getString("eventHostName");
+        String start_time = getIntent().getExtras().getString("start_time");
+        String locationName = getIntent().getExtras().getString("locationName");
+        String desription = getIntent().getExtras().getString("description");
+        String name = getIntent().getExtras().getString("name");
+        String imageDir = getIntent().getExtras().getString("coverPhoto");
 
 
         DisplayFragment fragment =  DisplayFragment.newInstance();
         Bundle bundle = new Bundle();
-        bundle.putString("title", title);
-        bundle.putString("pageid", pageid);
-        bundle.putString("extract", extract);
-        bundle.putDouble("distance", distance);
-        bundle.putString("lat",lat);
-        bundle.putString("long",longitude);
-        bundle.putString("image",imageDir);
+//        bundle.putString("title", title);
+//        bundle.putString("pageid", pageid);
+//        bundle.putString("extract", extract);
+//        bundle.putDouble("distance", distance);
+//        bundle.putString("lat",lat);
+//        bundle.putString("long",longitude);
+        bundle.putString("coverPhoto",imageDir);
 
 
         fragment.setArguments(bundle);

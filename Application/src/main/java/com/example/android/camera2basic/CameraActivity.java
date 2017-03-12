@@ -241,6 +241,7 @@ public class CameraActivity extends Activity implements
             returnedText += "waterloo";
             Log.d("HEEWORKDS", returnedText);
             if (returnedText != "") {
+                returnedText = processText(returnedText);
                 mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
                 new GraphRequest(
                         AccessToken.getCurrentAccessToken(),
@@ -332,11 +333,87 @@ public class CameraActivity extends Activity implements
                         @Override
                         public void onCompleted(GraphResponse response) {
                             returnObjVal = response.getJSONObject();
-                            Log.d("asdjfklads", returnObjVal.toString());
+                            try {
+                                if (returnObjVal.getJSONObject("events").has("data")) {
+                                    int intLen = returnObjVal.getJSONObject("events").getJSONArray("data").length();
+                                    intLen = Math.min(3,intLen);
+                                    String listIds = "";
+                                    for (int i = 0; i < intLen;i++) {
+                                        JSONObject eventInfo =((JSONObject) returnObjVal.getJSONObject("events").getJSONArray("data").get(i));
+                                        if (eventInfo.has("id")) {
+                                            listIds = listIds + "," + eventInfo.getString("id");
+                                        }
+                                    }
+                                    stringValues.put("relevantEvents",listIds);
+                                }
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+                            switchToDisplay();
                         }
                     }
-            );
+            ).executeAsync();
         }
+    }
+
+    private void switchToDisplay() {
+        Intent i = new Intent(this, DisplayActivity.class);
+        if (stringValues.containsKey("description")) {
+            i.putExtra("description",stringValues.get("description").substring(0,150));
+        } else {
+            i.putExtra("description","N/A");
+        }
+        if (stringValues.containsKey("locationName")) {
+            i.putExtra("locationName",stringValues.get("locationName"));
+        } else {
+            i.putExtra("locationName","N/A");
+        }
+        if (stringValues.containsKey("latitude")) {
+            i.putExtra("latitude",stringValues.get("latitude"));
+        } else {
+            i.putExtra("latitude","N/A");
+        }
+        if (stringValues.containsKey("longitude")) {
+            i.putExtra("longitude",stringValues.get("longitude"));
+        } else {
+            i.putExtra("longitude","N/A");
+        }
+        if (stringValues.containsKey("start_time")) {
+            i.putExtra("start_time",stringValues.get("start_time"));
+        } else {
+            i.putExtra("start_time","N/A");
+        }
+        if (stringValues.containsKey("name")) {
+            i.putExtra("name",stringValues.get("name"));
+        } else {
+            i.putExtra("name","N/A");
+        }
+        if (stringValues.containsKey("event_Id")) {
+            i.putExtra("event_Id",stringValues.get("event_Id"));
+        } else {
+            i.putExtra("event_Id","N/A");
+        }
+        if (stringValues.containsKey("eventHostName")) {
+            i.putExtra("eventHostName",stringValues.get("eventHostName"));
+        } else {
+            i.putExtra("eventHostName","N/A");
+        }
+        if (stringValues.containsKey("eventHostId")) {
+            i.putExtra("eventHostId",stringValues.get("eventHostId"));
+        } else {
+            i.putExtra("eventHostId","N/A");
+        }
+        if (stringValues.containsKey("coverPhoto")) {
+            i.putExtra("coverPhoto",stringValues.get("coverPhoto"));
+        } else {
+            i.putExtra("coverPhoto","N/A");
+        }
+        if (stringValues.containsKey("relevantEvents")) {
+            i.putExtra("relevantEvents",stringValues.get("relevantEvents"));
+        } else {
+            i.putExtra("relevantEvents","N/A");
+        }
+        this.startActivity(i);
     }
 
     private void launchMediaScanIntent() {
@@ -345,6 +422,16 @@ public class CameraActivity extends Activity implements
             mediaScanIntent.setData(getImageDataPath());
         }
         this.sendBroadcast(mediaScanIntent);
+    }
+
+    private String processText(String textToTrim) {
+        String processString = textToTrim.trim();
+        processString = processString.replaceAll("[^a-zA-Z]", "");
+
+        //TODO: API call for spellcheck hehexd
+
+
+        return processString;
     }
 
 
