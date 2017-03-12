@@ -37,11 +37,17 @@ import android.util.Log;
 import android.util.SparseArray;
 import android.widget.Toast;
 
+import com.facebook.AccessToken;
+import com.facebook.GraphRequest;
+import com.facebook.GraphResponse;
+import com.facebook.HttpMethod;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationServices;
 
 import org.apache.commons.io.FileUtils;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -65,12 +71,15 @@ public class CameraActivity extends Activity implements
     File imageData;
     Bitmap imageBitmap;
 
+    JSONObject returnObjVal;
+
     private TextRecognizer detector;
 
     GoogleApiClient mGoogleApiClient;
     Location mLastLocation;
     Boolean isBitmap;
     Uri imagePath;
+    HashMap<String,String> stringValues = new HashMap<String,String>();
     String returnedText = "";
 
     private static final int MY_PERMISSION_VALUES = 1;
@@ -174,14 +183,14 @@ public class CameraActivity extends Activity implements
                                 lines = lines + line.getValue() + "\n";
                                 for (Text element : line.getComponents()) {
                                     //extract scanned text words here
-                                    words = words + element.getValue() + ", ";
+                                    words = words + element.getValue() + "%20";
                                 }
                             }
                         }
                         if (textBlocks.size() == 0) {
                             Log.d("no text","no text mang");
                         } else {
-
+                            returnedText = words;
                            Log.d("words",words);
                         }
                     } else {
@@ -210,7 +219,7 @@ public class CameraActivity extends Activity implements
                                 lines = lines + line.getValue() + "\n";
                                 for (Text element : line.getComponents()) {
                                     //extract scanned text words here
-                                    words = words + element.getValue() + " ";
+                                    words = words + element.getValue() + "%20";
                                 }
                             }
                         }
@@ -218,7 +227,7 @@ public class CameraActivity extends Activity implements
                             Log.d("no text","no text mang");
                         } else {
                             returnedText = words;
-                            Log.d("words",words);
+                            Log.d("words",returnedText);
                         }
                     } else {
                         Log.d("error","Could not set up the detector!");
@@ -229,9 +238,104 @@ public class CameraActivity extends Activity implements
                     Log.e("error", e.toString());
                 }
             }
+            returnedText += "waterloo";
+            Log.d("HEEWORKDS", returnedText);
             if (returnedText != "") {
-
+                mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
+                new GraphRequest(
+                        AccessToken.getCurrentAccessToken(),
+                        "/search?q="+"research%20symposium%20waterloo"+"&type=event&center="+mLastLocation.getLatitude()+","+mLastLocation.getLongitude()+"&limit=1",
+                        null,
+                        HttpMethod.GET,
+                        new GraphRequest.Callback() {
+                            public void onCompleted(GraphResponse response) {
+                                Log.d("testv",response.toString());
+                                returnObjVal = response.getJSONObject();
+                                try {
+                                    if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).has("description")) {
+                                        stringValues.put("description", ((JSONObject) returnObjVal.getJSONArray("data").get(0)).getString("description"));
+                                    }
+                                    if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).has("place")) {
+                                        if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).getJSONObject("place").has("name")) {
+                                            stringValues.put("locationName", ((JSONObject) returnObjVal.getJSONArray("data").get(0)).getJSONObject("place").getString("name"));
+                                        }
+                                        if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).getJSONObject("place").has("location")) {
+                                            if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).getJSONObject("place").getJSONObject("location").has("latitude")) {
+                                                stringValues.put("latitude", ((JSONObject) returnObjVal.getJSONArray("data").get(0)).getJSONObject("place").getJSONObject("location").getInt("latitude")+"");
+                                                stringValues.put("longitude", ((JSONObject) returnObjVal.getJSONArray("data").get(0)).getJSONObject("place").getJSONObject("location").getInt("longitude")+"");
+                                            }
+                                        }
+                                    }
+                                    if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).has("start_time")) {
+                                        stringValues.put("start_time", ((JSONObject) returnObjVal.getJSONArray("data").get(0)).getString("start_time"));
+                                    }
+                                    if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).has("name")) {
+                                        stringValues.put("name", ((JSONObject) returnObjVal.getJSONArray("data").get(0)).getString("name"));
+                                    }
+                                    if (((JSONObject) returnObjVal.getJSONArray("data").get(0)).has("id")) {
+                                        stringValues.put("eventId", ((JSONObject) returnObjVal.getJSONArray("data").get(0)).getString("id"));
+                                    }
+                                    runSecondaryGraphRequests();
+                                } catch (JSONException e) {
+                                    e.printStackTrace();
+                                }
+                            }
+                        }
+                ).executeAsync();
             }
+        }
+    }
+
+    private void runSecondaryGraphRequests() {
+        new GraphRequest(
+                AccessToken.getCurrentAccessToken(),
+                "/"+stringValues.get("eventId")+"?fields=cover,owner",
+                null,
+                HttpMethod.GET,
+                new GraphRequest.Callback() {
+                    public void onCompleted(GraphResponse response) {
+                        returnObjVal = response.getJSONObject();
+                        try {
+                            if (returnObjVal.has("owner")) {
+                                if (returnObjVal.getJSONObject("owner").has("name")) {
+                                    stringValues.put("eventHostName", returnObjVal.getJSONObject("owner").getString("name"));
+                                }
+                                if (returnObjVal.getJSONObject("owner").has("id")) {
+                                    stringValues.put("eventHostId", returnObjVal.getJSONObject("owner").getString("id"));
+                                }
+                            }
+                            if (returnObjVal.has("cover")) {
+                                if (returnObjVal.getJSONObject("cover").has("source")) {
+                                    stringValues.put("coverPhoto", returnObjVal.getJSONObject("cover").getString("source"));
+                                }
+                            }
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                        Log.d("total values",stringValues.toString());
+                        runGetRelevantInfo();
+                    }
+                }
+        ).executeAsync();
+    }
+
+    private void runGetRelevantInfo() {
+        Log.d("asdas",stringValues.get("eventHostId"));
+        if (stringValues.containsKey("eventHostId")) {
+            Log.d("contains id ","dasdas");
+            new GraphRequest(
+                    AccessToken.getCurrentAccessToken(),
+                    "/" + stringValues.get("eventHostId") + "?fields=events",
+                    null,
+                    HttpMethod.GET,
+                    new GraphRequest.Callback() {
+                        @Override
+                        public void onCompleted(GraphResponse response) {
+                            returnObjVal = response.getJSONObject();
+                            Log.d("asdjfklads", returnObjVal.toString());
+                        }
+                    }
+            );
         }
     }
 
