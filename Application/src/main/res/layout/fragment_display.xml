@@ -52,12 +52,40 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <LinearLayout
+            <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
                 android:background="#666666">
 
-            </LinearLayout>
+                <TextView
+                    android:id="@+id/eventDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="65dp"
+                    android:layout_marginLeft="30dp"
+                    android:textColor="#ff0000"
+                    />
+                <TextView
+                    android:id="@+id/eventTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_toEndOf="@id/eventDate"
+                    android:textColor="#ffffff"
+                    />
+                <TextView
+                    android:id="@+id/eventHost"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="20dp"
+                    android:layout_toEndOf="@id/eventDate"
+                    android:textColor="#ffffff"
+                    />
+
+
+            </RelativeLayout>
 
             <!--For Facebook Information-->
             <android.support.design.widget.CollapsingToolbarLayout
