@@ -1,149 +1,192 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:16:1-53:12
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:16:1-55:12
 	package
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:17:5-47
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:17:5-47
 	xmlns:android
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:16:11-69
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:16:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:19:5-65
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:19:5-65
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:19:22-62
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:19:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:21:5-60
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:21:5-60
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:21:19-57
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:21:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:22:5-70
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:22:5-70
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:22:19-67
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:22:19-67
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:24:5-80
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:24:5-80
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:24:22-77
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:24:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:25:5-79
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:25:5-79
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:25:22-76
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:25:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:26:5-81
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:26:5-81
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:26:22-78
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:26:22-78
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:27:5-67
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:20:5-66
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:27:22-64
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:27:22-64
 application
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:29:5-51:19
-MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Nathan\.android\build-cache\5ac3b8eeb0354f3fef1892ee6286fe29d9a2884f\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Nathan\.android\build-cache\b52f314d8e8501f70054d7fd27af71583b52f7f0\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Nathan\.android\build-cache\e59bea81e2a8c0fde047986a6c5c82fa55758d0c\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Nathan\.android\build-cache\768d43d340824ea72ea870fafcdd38827682e35e\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v13:24.2.1] C:\Users\Nathan\.android\build-cache\92aaf8d8243a78cb9339ce0121041e649ee47f1c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Nathan\.android\build-cache\6d12b8e1969b58b3c4b15dfc6979d88bed09540a\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:24.2.1] C:\Users\Nathan\.android\build-cache\f87f86e958754f0ab857b18db5149a0ab8e16dd9\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Nathan\.android\build-cache\5c8e6548989cc47b99657614b40e53ce3db09664\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Nathan\.android\build-cache\5fa89526deff2afb6ddf7bf2e4226d4e01e2b09c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Nathan\.android\build-cache\199d91b56e45c6df19945fc8c09b3fa2740d4b8c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Nathan\.android\build-cache\4a40239e4e396917cb0b7e39c54b766807f0ef6c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Nathan\.android\build-cache\5287c902398be0f9fe5d7654ef03b87a58a3af2a\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Nathan\.android\build-cache\267d146c960041863eb1d63ecd490ccd4352188b\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Nathan\.android\build-cache\6e530be509951ec07d5a4779c79bf90b606e90dc\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Nathan\.android\build-cache\3319f0535abdaa61536af8e39adf55555f820900\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Nathan\.android\build-cache\da36ea38a27875e568e0937148a908ee7e273ef0\output\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:29:5-53:19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\MLH Admin\.android\build-cache\6a11b37a868efc892b9ef209a37000cca0b1db33\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.0] C:\Users\MLH Admin\.android\build-cache\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\MLH Admin\.android\build-cache\10447260b6e2d7ef36f0addac700f0d076b92b8f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\MLH Admin\.android\build-cache\9ce0c04687e719ed183eba39d719bc61b6f5f2ef\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\MLH Admin\.android\build-cache\bb6d5be24b26740af160411e0cdf738f6e2a8b87\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\MLH Admin\.android\build-cache\ce8d6bcee81e06d922980925be00d219ef66e528\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\MLH Admin\.android\build-cache\729496725cde8d56900348068bb624abd8da3b41\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\MLH Admin\.android\build-cache\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\MLH Admin\.android\build-cache\66c5b2738bbc86d1473958f233dd9799869fcb4a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\MLH Admin\.android\build-cache\bcf1bcdb6a8ae2ba8604c0e57e0a95c9a49ab7d2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\MLH Admin\.android\build-cache\7b66850c65bbaa6585158146a293564cb7318743\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\MLH Admin\.android\build-cache\a90f4dcc61e822056f9d97f8f5158ba2e2c4e8fb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\MLH Admin\.android\build-cache\dfb75ad71d0322fc9004cc58fff63937acad4d38\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\MLH Admin\.android\build-cache\51f5b4b4745094bac2de3642d1f821957cd9b136\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\MLH Admin\.android\build-cache\992f2d06449839513a8f7092ad5e6c852acc1e99\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\MLH Admin\.android\build-cache\25bdacd40146d738897c4583485780ed94a4355d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\MLH Admin\.android\build-cache\57efa5dcd420aba2d269e3d29dcb218b2616a346\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\MLH Admin\.android\build-cache\17d878d5c0af96487d93b1751dda7c14d8a1d446\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:32:9-41
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:32:9-41
 	android:allowBackup
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:30:9-35
 	android:icon
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:31:9-46
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:31:9-46
 	android:theme
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:33:9-42
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:33:9-42
 activity#com.example.android.camera2basic.StartupActivity
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:34:9-42:20
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:34:9-42:20
 	android:theme
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:36:13-47
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:36:13-47
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:35:13-44
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:35:13-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:37:13-41:29
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:38:17-69
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:38:25-66
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:40:17-77
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:40:27-74
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:40:27-74
 activity#com.example.android.camera2basic.CameraActivity
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:43:9-52
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:43:9-52
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:43:19-49
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:43:19-49
 activity#com.example.android.camera2basic.DisplayActivity
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:44:9-53
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:44:9-53
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:44:19-50
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:44:19-50
+activity#com.example.android.camera2basic.FacebookLoginActivity
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:45:9-58
+	android:name
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:45:19-56
+activity#com.example.android.camera2basic.PermissionSelectActivity
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:46:9-61
+	android:name
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:46:19-59
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:46:9-48:72
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:48:9-50:72
 	android:value
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:48:13-69
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:50:13-69
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:47:13-58
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:49:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:9-107
+	android:value
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:66-105
+	android:name
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:20-65
 activity#com.example.android.camera2basic.ActivityList
-ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:50:9-59
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:52:9-59
 	android:name
-		ADDED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml:50:19-47
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:52:19-47
 uses-sdk
-INJECTED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Nathan\.android\build-cache\5ac3b8eeb0354f3fef1892ee6286fe29d9a2884f\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Nathan\.android\build-cache\b52f314d8e8501f70054d7fd27af71583b52f7f0\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Nathan\.android\build-cache\e59bea81e2a8c0fde047986a6c5c82fa55758d0c\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Nathan\.android\build-cache\768d43d340824ea72ea870fafcdd38827682e35e\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v13:24.2.1] C:\Users\Nathan\.android\build-cache\92aaf8d8243a78cb9339ce0121041e649ee47f1c\output\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Nathan\.android\build-cache\6d12b8e1969b58b3c4b15dfc6979d88bed09540a\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:24.2.1] C:\Users\Nathan\.android\build-cache\f87f86e958754f0ab857b18db5149a0ab8e16dd9\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Nathan\.android\build-cache\5c8e6548989cc47b99657614b40e53ce3db09664\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Nathan\.android\build-cache\5fa89526deff2afb6ddf7bf2e4226d4e01e2b09c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Nathan\.android\build-cache\199d91b56e45c6df19945fc8c09b3fa2740d4b8c\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Nathan\.android\build-cache\4a40239e4e396917cb0b7e39c54b766807f0ef6c\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Nathan\.android\build-cache\5287c902398be0f9fe5d7654ef03b87a58a3af2a\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Nathan\.android\build-cache\267d146c960041863eb1d63ecd490ccd4352188b\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Nathan\.android\build-cache\6e530be509951ec07d5a4779c79bf90b606e90dc\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Nathan\.android\build-cache\f2343dfa90d5c2591510554f8606b75cc33eb5ed\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Nathan\.android\build-cache\3319f0535abdaa61536af8e39adf55555f820900\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Nathan\.android\build-cache\da36ea38a27875e568e0937148a908ee7e273ef0\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\MLH Admin\.android\build-cache\6a11b37a868efc892b9ef209a37000cca0b1db33\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:23:5-42
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.0.0] C:\Users\MLH Admin\.android\build-cache\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\MLH Admin\.android\build-cache\a90da51260408a70c237bc43e8588f9d9c09f8e4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] C:\Users\MLH Admin\.android\build-cache\10447260b6e2d7ef36f0addac700f0d076b92b8f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\MLH Admin\.android\build-cache\9ce0c04687e719ed183eba39d719bc61b6f5f2ef\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\MLH Admin\.android\build-cache\bb6d5be24b26740af160411e0cdf738f6e2a8b87\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\MLH Admin\.android\build-cache\ce8d6bcee81e06d922980925be00d219ef66e528\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\MLH Admin\.android\build-cache\729496725cde8d56900348068bb624abd8da3b41\output\AndroidManifest.xml:17:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\MLH Admin\.android\build-cache\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\MLH Admin\.android\build-cache\66c5b2738bbc86d1473958f233dd9799869fcb4a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\MLH Admin\.android\build-cache\bcf1bcdb6a8ae2ba8604c0e57e0a95c9a49ab7d2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\MLH Admin\.android\build-cache\7b66850c65bbaa6585158146a293564cb7318743\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\MLH Admin\.android\build-cache\a90f4dcc61e822056f9d97f8f5158ba2e2c4e8fb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\MLH Admin\.android\build-cache\dfb75ad71d0322fc9004cc58fff63937acad4d38\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\MLH Admin\.android\build-cache\51f5b4b4745094bac2de3642d1f821957cd9b136\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\MLH Admin\.android\build-cache\992f2d06449839513a8f7092ad5e6c852acc1e99\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\MLH Admin\.android\build-cache\25bdacd40146d738897c4583485780ed94a4355d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\MLH Admin\.android\build-cache\57efa5dcd420aba2d269e3d29dcb218b2616a346\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\MLH Admin\.android\build-cache\17d878d5c0af96487d93b1751dda7c14d8a1d446\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:24.2.1] C:\Users\Nathan\.android\build-cache\92aaf8d8243a78cb9339ce0121041e649ee47f1c\output\AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:25.0.0] C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		INJECTED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nathan\Documents\GitHub\Momento\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:19:22-76
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:19:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Nathan\.android\build-cache\093d2f2ddd3b7978f1b10c14678529b3a28280b2\output\AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Nathan\.android\build-cache\b52f314d8e8501f70054d7fd27af71583b52f7f0\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\MLH Admin\.android\build-cache\bb6d5be24b26740af160411e0cdf738f6e2a8b87\output\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Nathan\.android\build-cache\b52f314d8e8501f70054d7fd27af71583b52f7f0\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\MLH Admin\.android\build-cache\bb6d5be24b26740af160411e0cdf738f6e2a8b87\output\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Nathan\.android\build-cache\b52f314d8e8501f70054d7fd27af71583b52f7f0\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\MLH Admin\.android\build-cache\bb6d5be24b26740af160411e0cdf738f6e2a8b87\output\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Nathan\.android\build-cache\b52f314d8e8501f70054d7fd27af71583b52f7f0\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\MLH Admin\.android\build-cache\bb6d5be24b26740af160411e0cdf738f6e2a8b87\output\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Nathan\.android\build-cache\768d43d340824ea72ea870fafcdd38827682e35e\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\MLH Admin\.android\build-cache\729496725cde8d56900348068bb624abd8da3b41\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Nathan\.android\build-cache\768d43d340824ea72ea870fafcdd38827682e35e\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\MLH Admin\.android\build-cache\729496725cde8d56900348068bb624abd8da3b41\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Nathan\.android\build-cache\768d43d340824ea72ea870fafcdd38827682e35e\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\MLH Admin\.android\build-cache\729496725cde8d56900348068bb624abd8da3b41\output\AndroidManifest.xml:20:20-65
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:46:13-72
+		INJECTED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\MLH Admin\.android\build-cache\918a877e3a817611d376ba5de6af158375fc1665\output\AndroidManifest.xml:45:13-70

@@ -1,7 +1,7 @@
-#Wed Nov 16 16:24:40 EST 2016
-base.0=C\:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_09a8a950f531d8a460e643be54c5182ad80c51ea
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f6f0f6ca0fbf7382cdaebd386c28a6e47843740\\classes.dex
-base.1=C\:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f6f0f6ca0fbf7382cdaebd386c28a6e47843740
-file.0=C\:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_09a8a950f531d8a460e643be54c5182ad80c51ea\\classes.dex
+#Sat Mar 11 16:26:40 PST 2017
+base.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\\classes.dex
+base.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5
+file.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435\\classes.dex

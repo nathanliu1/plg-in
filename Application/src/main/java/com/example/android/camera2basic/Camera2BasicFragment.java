@@ -944,7 +944,7 @@ public class Camera2BasicFragment extends Fragment
                 Uri selectedImageUri = data.getData();
                 selectedImagePath = getPath(selectedImageUri);
                 Log.i("test",selectedImageUri.toString());
-                ((CameraActivity) getActivity()).setImageDataPath(selectedImageUri.toString());
+                ((CameraActivity) getActivity()).setImageDataPath(selectedImageUri);
                 try {
                     ((CameraActivity) getActivity()).setImageData(null);
                     Bitmap bitmap = MediaStore.Images.Media.getBitmap(this.getActivity().getContentResolver(), selectedImageUri);

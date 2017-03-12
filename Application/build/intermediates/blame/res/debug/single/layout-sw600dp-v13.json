@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\MLH Admin\\.android\\build-cache\\8981b25624e8c061ab425ed7be4c73bf2f0fd5d3\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },

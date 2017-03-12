@@ -34,6 +34,7 @@ import android.support.v13.app.ActivityCompat;
 import android.support.v13.app.FragmentCompat;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
+import android.util.SparseArray;
 import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -51,46 +52,34 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
-import com.google.api.client.extensions.android.http.AndroidHttp;
-import com.google.api.client.googleapis.json.GoogleJsonResponseException;
-import com.google.api.client.http.HttpTransport;
-import com.google.api.client.json.JsonFactory;
-import com.google.api.client.json.gson.GsonFactory;
-import com.google.api.services.vision.v1.Vision;
-import com.google.api.services.vision.v1.VisionRequest;
-import com.google.api.services.vision.v1.VisionRequestInitializer;
-import com.google.api.services.vision.v1.model.AnnotateImageRequest;
-import com.google.api.services.vision.v1.model.BatchAnnotateImagesRequest;
-import com.google.api.services.vision.v1.model.BatchAnnotateImagesResponse;
-import com.google.api.services.vision.v1.model.EntityAnnotation;
-import com.google.api.services.vision.v1.model.Feature;
-import com.google.api.services.vision.v1.model.Image;
+import com.google.android.gms.vision.Frame;
+import com.google.android.gms.vision.text.Text;
+import com.google.android.gms.vision.text.TextBlock;
+import com.google.android.gms.vision.text.TextRecognizer;
 
-import static android.R.attr.path;
-import static com.google.android.gms.internal.zzs.TAG;
+import com.facebook.FacebookSdk;
 
 public class CameraActivity extends Activity implements
-        GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, AsyncResponse {
+        GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener {
 
     File imageData;
     Bitmap imageBitmap;
 
-    private static final String CLOUD_VISION_API_KEY = "AIzaSyCO2CPk7MGe-fAV0xLXA9QDeLPWt3Dt8HI";
-    private static final String ANDROID_CERT_HEADER = "X-Android-Cert";
-    private static final String ANDROID_PACKAGE_HEADER = "X-Android-Package";
+    private TextRecognizer detector;
 
     GoogleApiClient mGoogleApiClient;
     Location mLastLocation;
     Boolean isBitmap;
-    String imagePath;
+    Uri imagePath;
 
     Boolean wikiDone = false;
-    Boolean googleMap = false;
+    String returnedText = "";
+
+
+
+
 
     runWikiLocationAPI wikilocation =new runWikiLocationAPI();
-
-    ArrayList<HashMap<String, String>> returnedWikiData = new ArrayList<HashMap<String, String>>();
-    List<HashMap<String,String>> allClarifaiValuesOutput = new ArrayList<HashMap<String, String>>();
 
     private static final int MY_PERMISSION_VALUES = 1;
 
@@ -114,6 +103,9 @@ public class CameraActivity extends Activity implements
         if (mGoogleApiClient != null) {
             mGoogleApiClient.connect();
         }
+
+        detector = new TextRecognizer.Builder(getApplicationContext()).build();
+
         if (null == savedInstanceState) {
             getFragmentManager().beginTransaction()
                     .replace(R.id.container, Camera2BasicFragment.newInstance())
@@ -143,11 +135,11 @@ public class CameraActivity extends Activity implements
         return imageBitmap;
     }
 
-    public void setImageDataPath(String imageData) {
+    public void setImageDataPath(Uri imageData) {
         this.imagePath = imageData;
     }
 
-    public String getImageDataPath() {
+    public Uri getImageDataPath() {
         return imagePath;
     }
 
@@ -170,153 +162,117 @@ public class CameraActivity extends Activity implements
         this.isBitmap = isBitmap;
         if (ContextCompat.checkSelfPermission(this,Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED
                 && ContextCompat.checkSelfPermission(this,Manifest.permission.ACCESS_COARSE_LOCATION) == PackageManager.PERMISSION_GRANTED ) {
+            launchMediaScanIntent();
             if (!isBitmap) {
                 try {
                     String filePath = getImageData().getPath();
                     Bitmap toConvert = BitmapFactory.decodeFile(filePath);
-                    callCloudVision(toConvert);
-                } catch (IOException e) {
-                    e.printStackTrace();
+                    if (detector.isOperational() && toConvert != null) {
+                        Frame frame = new Frame.Builder().setBitmap(toConvert).build();
+                        SparseArray<TextBlock> textBlocks = detector.detect(frame);
+                        String blocks = "";
+                        String lines = "";
+                        String words = "";
+                        for (int index = 0; index < textBlocks.size(); index++) {
+                            //extract scanned text blocks here
+                            TextBlock tBlock = textBlocks.valueAt(index);
+                            blocks = blocks + tBlock.getValue() + "\n" + "\n";
+                            for (Text line : tBlock.getComponents()) {
+                                //extract scanned text lines here
+                                lines = lines + line.getValue() + "\n";
+                                for (Text element : line.getComponents()) {
+                                    //extract scanned text words here
+                                    words = words + element.getValue() + ", ";
+                                }
+                            }
+                        }
+                        if (textBlocks.size() == 0) {
+                            Log.d("no text","no text mang");
+                        } else {
+
+                           Log.d("words",words);
+                        }
+                    } else {
+                        Log.d("error","Could not set up the detector!");
+                    }
+                } catch (Exception e) {
+                    Toast.makeText(this, "Failed to load Image", Toast.LENGTH_SHORT)
+                            .show();
+                    Log.e("error", e.toString());
                 }
             }  else {
                 try {
-                    callCloudVision(getImageDataBM());
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-            mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
-            wikilocation.delegate = this;
-            wikilocation.execute(mLastLocation);
-        }
-    }
-
-    private void callCloudVision(final Bitmap bitmap) throws IOException {
-
-        // Do the real work in an async task, because we need to use the network anyway
-        new AsyncTask<Object, Void, String>() {
-            @Override
-            protected String doInBackground(Object... params) {
-                try {
-                    HttpTransport httpTransport = AndroidHttp.newCompatibleTransport();
-                    JsonFactory jsonFactory = GsonFactory.getDefaultInstance();
-
-                    VisionRequestInitializer requestInitializer =
-                            new VisionRequestInitializer(CLOUD_VISION_API_KEY) {
-                                /**
-                                 * We override this so we can inject important identifying fields into the HTTP
-                                 * headers. This enables use of a restricted cloud platform API key.
-                                 */
-                                @Override
-                                protected void initializeVisionRequest(VisionRequest<?> visionRequest)
-                                        throws IOException {
-                                    super.initializeVisionRequest(visionRequest);
-
-                                    String packageName = getPackageName();
-                                    visionRequest.getRequestHeaders().set(ANDROID_PACKAGE_HEADER, packageName);
-
-                                    String sig = PackageManagerUtils.getSignature(getPackageManager(), packageName);
-
-                                    visionRequest.getRequestHeaders().set(ANDROID_CERT_HEADER, sig);
+                    Bitmap toConvert = getImageDataBM();
+                    if (detector.isOperational() && toConvert != null) {
+                        Frame frame = new Frame.Builder().setBitmap(toConvert).build();
+                        SparseArray<TextBlock> textBlocks = detector.detect(frame);
+                        String blocks = "";
+                        String lines = "";
+                        String words = "";
+                        for (int index = 0; index < textBlocks.size(); index++) {
+                            //extract scanned text blocks here
+                            TextBlock tBlock = textBlocks.valueAt(index);
+                            blocks = blocks + tBlock.getValue() + "\n" + "\n";
+                            for (Text line : tBlock.getComponents()) {
+                                //extract scanned text lines here
+                                lines = lines + line.getValue() + "\n";
+                                for (Text element : line.getComponents()) {
+                                    //extract scanned text words here
+                                    words = words + element.getValue() + ", ";
                                 }
-                            };
-
-                    Vision.Builder builder = new Vision.Builder(httpTransport, jsonFactory, null);
-                    builder.setVisionRequestInitializer(requestInitializer);
-
-                    Vision vision = builder.build();
-
-                    BatchAnnotateImagesRequest batchAnnotateImagesRequest =
-                            new BatchAnnotateImagesRequest();
-                    batchAnnotateImagesRequest.setRequests(new ArrayList<AnnotateImageRequest>() {{
-                        AnnotateImageRequest annotateImageRequest = new AnnotateImageRequest();
-
-                        // Add the image
-                        Image base64EncodedImage = new Image();
-                        // Convert the bitmap to a JPEG
-                        // Just in case it's a format that Android understands but Cloud Vision
-                        ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
-                        bitmap.compress(Bitmap.CompressFormat.JPEG, 90, byteArrayOutputStream);
-                        byte[] imageBytes = byteArrayOutputStream.toByteArray();
-
-                        // Base64 encode the JPEG
-                        base64EncodedImage.encodeContent(imageBytes);
-                        annotateImageRequest.setImage(base64EncodedImage);
-
-                        // add the features we want
-                        annotateImageRequest.setFeatures(new ArrayList<Feature>() {{
-                            Feature labelDetection = new Feature();
-                            labelDetection.setType("LABEL_DETECTION");
-                            labelDetection.setMaxResults(10);
-                            add(labelDetection);
-                        }});
-
-                        // Add the list of one thing to the request
-                        add(annotateImageRequest);
-                    }});
-
-                    Vision.Images.Annotate annotateRequest =
-                            vision.images().annotate(batchAnnotateImagesRequest);
-                    // Due to a bug: requests to Vision API containing large images fail when GZipped.
-                    annotateRequest.setDisableGZipContent(true);
-                    Log.d(TAG, "created Cloud Vision request object, sending request");
-
-                    BatchAnnotateImagesResponse response = annotateRequest.execute();
-                    return convertResponseToString(response);
-
-                } catch (GoogleJsonResponseException e) {
-                    Log.d(TAG, "failed to make API request because " + e.getContent());
-                } catch (IOException e) {
-                    Log.d(TAG, "failed to make API request because of other IOException " +
-                            e.getMessage());
+                            }
+                        }
+                        if (textBlocks.size() == 0) {
+                            Log.d("no text","no text mang");
+                        } else {
+                            returnedText = words;
+                            Log.d("words",words);
+                        }
+                    } else {
+                        Log.d("error","Could not set up the detector!");
+                    }
+                } catch (Exception e) {
+                    Toast.makeText(this, "Failed to load Image", Toast.LENGTH_SHORT)
+                            .show();
+                    Log.e("error", e.toString());
                 }
-                return "Cloud Vision API request failed. Check logs for details.";
             }
+            if (returnedText != "") {
 
-            protected void onPostExecute(String result) {
-                Log.e("HEY THIS IS THE RETURN", result);
             }
-        }.execute();
-    }
-
-    private String convertResponseToString(BatchAnnotateImagesResponse response) {
-        String message = "I found these things:\n\n";
-
-        List<EntityAnnotation> labels = response.getResponses().get(0).getLabelAnnotations();
-        if (labels != null) {
-            for (EntityAnnotation label : labels) {
-                message += String.format(Locale.US, "%.3f: %s", label.getScore(), label.getDescription());
-                message += "\n";
-            }
-        } else {
-            message += "nothing";
-        }
-
-        return message;
-    }
-
-    @Override
-    public void processFinish(ArrayList<HashMap<String, String>> output) {
-        returnedWikiData = output;
-        wikiDone = true;
-        if (googleMap && !returnedWikiData.isEmpty() && !allClarifaiValuesOutput.isEmpty()) {
-            HashMap<String, String> decision = new HashMap<String, String>();
-            decision = MatchingToLocation.sendForMatching(returnedWikiData, allClarifaiValuesOutput);
-            Log.i("decision", decision.toString());
-            Intent i = new Intent(this, DisplayActivity.class);
-            i.putExtra("title", decision.get("title").toString());
-            i.putExtra("pageid", decision.get("pageid").toString());
-            i.putExtra("extract", decision.get("extract").toString());
-            i.putExtra("lat", decision.get("lat").toString());
-            i.putExtra("long", decision.get("long").toString());
-            i.putExtra("distance", Double.parseDouble(decision.get("distance").toString()));
-            if (!isBitmap) {
-                Log.i("iamgelocation", getImageData().getAbsolutePath());
-                i.putExtra("image", getImageData().getAbsolutePath());
-            } else {
-                i.putExtra("image", getImageDataPath());
-            }
-            this.startActivity(i);
         }
     }
+
+    private void launchMediaScanIntent() {
+        Intent mediaScanIntent = new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE);
+        if (!isBitmap) {
+            mediaScanIntent.setData(getImageDataPath());
+        }
+        this.sendBroadcast(mediaScanIntent);
+    }
+
+
+//    @Override
+//    public void processFinish(ArrayList<HashMap<String, String>> output) {
+//        wikiDone = true;
+//        if (returnedText != "" && !returnedWikiData.isEmpty()) {
+//            HashMap<String, String> decision = new HashMap<String, String>();
+//            decision = MatchingToLocation.sendForMatching(returnedWikiData, allClarifaiValuesOutput);
+//            Log.i("decision", decision.toString());
+//            Intent i = new Intent(this, DisplayActivity.class);
+//            i.putExtra("title", decision.get("title").toString());
+//            i.putExtra("pageid", decision.get("pageid").toString());
+//            i.putExtra("extract", decision.get("extract").toString());
+//            i.putExtra("lat", decision.get("lat").toString());
+//            i.putExtra("long", decision.get("long").toString());
+//            i.putExtra("distance", Double.parseDouble(decision.get("distance").toString()));
+//            if (!isBitmap) {
+//                Log.i("iamgelocation", getImageData().getAbsolutePath());
+//                i.putExtra("image", getImageData().getAbsolutePath());
+//            } else {
+//                i.putExtra("image", getImageDataPath());
+//            }
+//            this.startActivity(i);
+//        }
+//    }
 }
