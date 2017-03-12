@@ -427,14 +427,9 @@ public class CameraActivity extends Activity implements
     private String processText(String textToTrim) {
         String processString = textToTrim.trim();
         processString = processString.replaceAll("[^a-zA-Z]", "");
-
         //TODO: API call for spellcheck hehexd
-
-
         return processString;
     }
-
-
 //    @Override
 //    public void processFinish(ArrayList<HashMap<String, String>> output) {
 //        wikiDone = true;
