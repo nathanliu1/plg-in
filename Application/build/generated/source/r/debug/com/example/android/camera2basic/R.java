@@ -3010,16 +3010,17 @@ containing a value of this type.
         public static final int ic_menu=0x7f020079;
         public static final int momento_icon=0x7f02007a;
         public static final int navigation_empty_icon=0x7f02007b;
-        public static final int notification_template_icon_bg=0x7f020085;
+        public static final int notification_template_icon_bg=0x7f020086;
         public static final int p1=0x7f02007c;
         public static final int p2=0x7f02007d;
         public static final int p3=0x7f02007e;
         public static final int p4=0x7f02007f;
         public static final int p5=0x7f020080;
-        public static final int previous_tags_drawable_icon=0x7f020081;
-        public static final int splash_screen=0x7f020082;
-        public static final int splash_screen_drawable=0x7f020083;
-        public static final int tile=0x7f020084;
+        public static final int plgin_icon=0x7f020081;
+        public static final int previous_tags_drawable_icon=0x7f020082;
+        public static final int splash_screen=0x7f020083;
+        public static final int splash_screen_drawable=0x7f020084;
+        public static final int tile=0x7f020085;
     }
     public static final class id {
         public static final int action0=0x7f0b009c;

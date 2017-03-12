@@ -16,6 +16,18 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -28,24 +40,40 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
@@ -56,16 +84,28 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
@@ -82,6 +122,10 @@
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
@@ -112,8 +156,16 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
@@ -124,6 +176,10 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -132,12 +188,24 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
@@ -152,12 +220,24 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
@@ -170,6 +250,10 @@
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
@@ -192,12 +276,28 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
@@ -212,12 +312,24 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
@@ -228,24 +340,48 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
@@ -276,8 +412,20 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -288,6 +436,14 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -296,8 +452,20 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
@@ -312,12 +480,20 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
@@ -332,16 +508,36 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
@@ -364,12 +560,20 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
@@ -384,8 +588,20 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
@@ -394,6 +610,10 @@
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
@@ -420,6 +640,10 @@
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -432,8 +656,16 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\5c8e6548989cc47b99657614b40e53ce3db09664\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
@@ -460,6 +692,10 @@
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
         "source": "C:\\Users\\Nathan\\.android\\build-cache\\b52f314d8e8501f70054d7fd27af71583b52f7f0\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
     },
@@ -474,6 +710,10 @@
     {
         "merged": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
         "source": "C:\\DEV\\android-Camera2Basic-master\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\a67eba6566180170d437eb6845c19a73ebde4d95\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Nathan\\Documents\\GitHub\\Momento\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
