@@ -43,7 +43,6 @@
         <activity android:name=".CameraActivity" />
         <activity android:name=".DisplayActivity" />
         <activity android:name=".FacebookLoginActivity"/>
-        <activity android:name=".PermissionSelectActivity"/>
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"

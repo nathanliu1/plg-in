@@ -23,11 +23,13 @@ package com.example.android.camera2basic;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.android.camera2basic.R;
 import com.facebook.AccessToken;
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
@@ -54,8 +56,6 @@ public class FacebookLoginActivity extends AppCompatActivity {
 
     private CallbackManager callbackManager;
 
-    private ProfilePictureView profilePictureView;
-    private TextView userNameView;
     private LoginButton fbLoginButton;
 
     @Override
@@ -66,55 +66,6 @@ public class FacebookLoginActivity extends AppCompatActivity {
         callbackManager = CallbackManager.Factory.create();
 
         fbLoginButton = (LoginButton) findViewById(R.id._fb_login);
-        profilePictureView = (ProfilePictureView) findViewById(R.id.user_pic);
-        profilePictureView.setCropped(true);
-
-        userNameView = (TextView) findViewById(R.id.user_name);
-
-        final Button deAuthButton = (Button) findViewById(R.id.deauth);
-        deAuthButton.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                if (!isLoggedIn()) {
-                    Toast.makeText(
-                            FacebookLoginActivity.this,
-                            R.string.app_not_logged_in,
-                            Toast.LENGTH_LONG).show();
-                    return;
-                }
-                GraphRequest.Callback callback = new GraphRequest.Callback() {
-                    @Override
-                    public void onCompleted(GraphResponse response) {
-                        try {
-                            if(response.getError() != null) {
-                                Toast.makeText(
-                                        FacebookLoginActivity.this,
-                                        getResources().getString(
-                                                R.string.failed_to_deauth,
-                                                response.toString()),
-                                        Toast.LENGTH_LONG
-                                ).show();
-                            }
-                            else if (response.getJSONObject().getBoolean(SUCCESS)) {
-                                LoginManager.getInstance().logOut();
-                                // updateUI();?
-                            }
-                        } catch (JSONException ex) { /* no op */ }
-                    }
-                };
-                GraphRequest request = new GraphRequest(AccessToken.getCurrentAccessToken(),
-                        GRAPH_PATH, new Bundle(), HttpMethod.DELETE, callback);
-                request.executeAsync();
-            }
-        });
-
-        final Button permsButton = (Button) findViewById(R.id.perms);
-        permsButton.setOnClickListener(new View.OnClickListener() {
-            public void onClick(final View v) {
-                Intent selectPermsIntent =
-                        new Intent(FacebookLoginActivity.this, PermissionSelectActivity.class);
-                startActivityForResult(selectPermsIntent, PICK_PERMS_REQUEST);
-            }
-        });
 
         // Callback registration
         fbLoginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
@@ -165,12 +116,11 @@ public class FacebookLoginActivity extends AppCompatActivity {
     private void updateUI() {
         Profile profile = Profile.getCurrentProfile();
         if (profile != null) {
-            profilePictureView.setProfileId(profile.getId());
-            userNameView
-                    .setText(String.format("%s %s",profile.getFirstName(), profile.getLastName()));
-        } else {
-            profilePictureView.setProfileId(null);
-            userNameView.setText(getString(R.string.welcome));
+            Log.d("hehe","hehehe");
+            Intent intent = new Intent(this, CameraActivity.class);
+            startActivity(intent);
+            finish();
+
         }
     }
 
@@ -182,41 +132,7 @@ public class FacebookLoginActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
         if(requestCode == PICK_PERMS_REQUEST) {
             if(resultCode == RESULT_OK) {
-                String[] readPermsArr = data
-                        .getStringArrayExtra(PermissionSelectActivity.EXTRA_SELECTED_READ_PARAMS);
-                String writePrivacy = data
-                        .getStringExtra(PermissionSelectActivity.EXTRA_SELECTED_WRITE_PRIVACY);
-                String[] publishPermsArr = data
-                        .getStringArrayExtra(
-                                PermissionSelectActivity.EXTRA_SELECTED_PUBLISH_PARAMS);
 
-                fbLoginButton.clearPermissions();
-
-                if (readPermsArr != null) {
-                    if(readPermsArr.length > 0) {
-                        fbLoginButton.setReadPermissions(readPermsArr);
-                    }
-                }
-
-                if ((readPermsArr == null ||
-                        readPermsArr.length == 0) &&
-                        publishPermsArr != null) {
-                    if(publishPermsArr.length > 0) {
-                        fbLoginButton.setPublishPermissions(publishPermsArr);
-                    }
-                }
-                // Set write privacy for the user
-                if ((writePrivacy != null)) {
-                    DefaultAudience audience;
-                    if (DefaultAudience.EVERYONE.toString().equals(writePrivacy)) {
-                        audience = DefaultAudience.EVERYONE;
-                    } else if (DefaultAudience.FRIENDS.toString().equals(writePrivacy)) {
-                        audience = DefaultAudience.FRIENDS;
-                    } else {
-                        audience = DefaultAudience.ONLY_ME;
-                    }
-                    fbLoginButton.setDefaultAudience(audience);
-                }
             }
         } else {
             callbackManager.onActivityResult(requestCode, resultCode, data);

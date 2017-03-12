@@ -55,7 +55,6 @@
         <activity android:name="com.example.android.camera2basic.CameraActivity" />
         <activity android:name="com.example.android.camera2basic.DisplayActivity" />
         <activity android:name="com.example.android.camera2basic.FacebookLoginActivity" />
-        <activity android:name="com.example.android.camera2basic.PermissionSelectActivity" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"

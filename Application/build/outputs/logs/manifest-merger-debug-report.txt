@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:16:1-55:12
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:16:1-54:12
 	package
 		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:17:5-47
 	xmlns:android
@@ -35,7 +35,7 @@ MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin
 	android:name
 		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:27:22-64
 application
-ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:29:5-53:19
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:29:5-52:19
 MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\MLH Admin\.android\build-cache\6a11b37a868efc892b9ef209a37000cca0b1db33\output\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\MLH Admin\.android\build-cache\5fc0b04c6c7db8642918c5c3bb1c025ba3657b73\output\AndroidManifest.xml:24:5-19
 MERGED from [com.android.support:support-v13:25.0.0] C:\Users\MLH Admin\.android\build-cache\b2218e187a57ebaeb4021e126de4436521e0339a\output\AndroidManifest.xml:25:5-20
@@ -93,26 +93,22 @@ activity#com.example.android.camera2basic.FacebookLoginActivity
 ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:45:9-58
 	android:name
 		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:45:19-56
-activity#com.example.android.camera2basic.PermissionSelectActivity
-ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:46:9-61
-	android:name
-		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:46:19-59
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:48:9-50:72
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:47:9-49:72
 	android:value
-		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:50:13-69
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:49:13-69
 	android:name
-		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:49:13-58
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:48:13-58
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:9-107
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:50:9-107
 	android:value
-		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:66-105
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:50:66-105
 	android:name
-		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:20-65
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:50:20-65
 activity#com.example.android.camera2basic.ActivityList
-ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:52:9-59
+ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:9-59
 	android:name
-		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:52:19-47
+		ADDED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml:51:19-47
 uses-sdk
 INJECTED from C:\Users\MLH Admin\Desktop\plg-in\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\MLH Admin\.android\build-cache\6a11b37a868efc892b9ef209a37000cca0b1db33\output\AndroidManifest.xml:3:5-42
