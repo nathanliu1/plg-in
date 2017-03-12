@@ -36,6 +36,8 @@ import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.HashMap;
 
 
@@ -83,13 +85,13 @@ public class DisplayFragment extends Fragment implements View.OnClickListener {
         toolbar = (Toolbar) rootView.findViewById(R.id.toolbar);
         ((DisplayActivity) getActivity()).setToolbar(toolbar);
 
-        title = getArguments().getString("title");
-        pageid = getArguments().getString("pageid");
-        extract = getArguments().getString("extract");
-        distance = getArguments().getDouble("distance");
-        pathUrl = getArguments().getString("image");
-        longitude = getArguments().getString("long");
-        lat = getArguments().getString("lat");
+        title ="";
+        pageid = "";
+        extract = "";
+        distance = 0.0;
+        pathUrl = getArguments().getString("coverPhoto");
+        longitude ="0.0";
+        lat = "0.0";
 
         mMapView.getMapAsync(new OnMapReadyCallback() {
             @Override
@@ -125,7 +127,8 @@ public class DisplayFragment extends Fragment implements View.OnClickListener {
         TextView extractView = (TextView)view.findViewById(R.id.quote);
         extractView.setText(extract);
         ImageView backdropImg = (ImageView) view.findViewById(R.id.backdrop);
-        Glide.with(this).load(pathUrl).centerCrop().into(backdropImg);
+        Log.d("path",pathUrl);
+        Glide.with(this).load(pathUrl).fitCenter().into(backdropImg);
         view.findViewById(R.id.appbarbutton).setOnClickListener(this);
     }
 

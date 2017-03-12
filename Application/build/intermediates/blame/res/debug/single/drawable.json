@@ -16,12 +16,12 @@
         "source": "C:\\Users\\MLH Admin\\.android\\build-cache\\bb6d5be24b26740af160411e0cdf738f6e2a8b87\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
         "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\38cebf8bb81aab25231eba6d14cd9ca044b7babc\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Anthony Tran\\.android\\build-cache\\ac12eae1b515f80ab90c5fcef049e8d7fbe4515a\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -110,6 +110,10 @@
     {
         "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_arrow_drawable_icon.xml",
         "source": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\src\\main\\res\\drawable\\forward_arrow_drawable_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_icon.png",
+        "source": "C:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\src\\main\\res\\drawable\\facebook_icon.png"
     },
     {
         "merged": "C:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
