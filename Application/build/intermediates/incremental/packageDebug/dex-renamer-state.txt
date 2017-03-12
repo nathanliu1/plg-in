@@ -1,7 +1,4 @@
-#Sat Mar 11 18:14:52 PST 2017
-base.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5\\classes.dex
-base.1=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0e3d4dd7a0a836f728ca3b03bd805454f1149d5
-file.0=C\:\\Users\\MLH Admin\\Desktop\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec84e5180460ccfaa223fb69463de8cdc3641435\\classes.dex
+#Sat Mar 11 21:29:29 EST 2017
+base.0=C\:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Anthony Tran\\Documents\\GitHub\\plg-in\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
